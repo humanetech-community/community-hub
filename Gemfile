@@ -16,6 +16,7 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 3.5"
 gem "github-pages", group: :jekyll_plugin
 
+gem "jekyll-remote-theme"
 gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
@@ -29,4 +30,5 @@ gem "minimal-mistakes-jekyll"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-include-cache"
 end
