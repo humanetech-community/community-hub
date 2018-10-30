@@ -31,3 +31,13 @@ Color tints selected via: http://highintegritydesign.com/tools/tinter-shader/
   - Hand-heart icon location: https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_hand-holding-heart.svg
   - Color blend: Diagonal top-left-bottom-right, #B82910 to #D47D70
   - Button color: #DB9288
+
+## Open Graph Image
+
+- Location: https://www.pexels.com/photo/iphone-6-apple-hand-time-9041/
+  - Creator: https://www.pexels.com/@oliur-rahman
+  - License: CC0
+
+- Location: https://pixabay.com/en/mobile-phone-smartphone-bokeh-2566615/
+  - Creator: https://pixabay.com/en/users/StockSnap-894430/
+  - License: CC0

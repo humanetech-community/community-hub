@@ -1,9 +1,13 @@
 # main links
 main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Campaigns"
+    url: /campaigns/
+  - title: "Projects"
+    url: /projects/
   - title: "About"
     url: /about/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
 
 # strategy navigation
 strategy:
