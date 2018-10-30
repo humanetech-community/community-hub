@@ -5,3 +5,13 @@ main:
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
+# strategy navigation
+strategy:
+  - title: "Cultural Awakening"
+    url: /strategy/awareness/
+  - title: "Public Pressure"
+    url: /strategy/regulation/
+  - title: "Engage Employees"
+    url: /strategy/adoption/
+  - title: "Apply Humane Design"
+    url: /strategy/application/

@@ -3,40 +3,65 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/humanetech-smartphone-background-3.jpg
+  overlay_image: /assets/images/humanetech-community-hero.jpg
   actions:
-    - label: "<i class='fas fa-sign-in-alt'></i> &nbsp;Join Us In Our Quest"
+    - label: "<i class='fas fa-sign-in-alt'></i> &nbsp;Join Our Quest"
       url: "https://community.humanetech.com/"
   caption:
 excerpt: 'Our global community of concerned people focuses on the rising harms of new technology, as it is radically transforming our world. And our mission is to change this trend.<br/><br/><span  class="fas fa-quote-left"></span>&nbsp; <i>To Re-align Technology to Humanity&#8217;s Best Interests</i> &nbsp;<span class="fas fa-quote-right"></span><br/><small><a href="https://humanetech.com">The Center for Humane Technology</a></small><br/><br/>'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/strategic-pillar-cultural-awakening.png
+    alt: "awareness"
+    title: "Cultural Awakening"
+    excerpt: "Our campaigns inform the public about the dangers and harms that come with modern technology, and we highlight solutions that already exist, and those we must find."
+    url: "/strategy/awareness/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
+    btn_label: "Awareness"
+    btn_color: "#9B889E"
+  - image_path: /assets/images/strategic-pillar-public-pressure.png
     alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    title: "Public Pressure"
+    excerpt: "Awareness leads to change in public opinion, and people applying political pressure, so that governments create law and regulations that protect us."
+    url: "/strategy/regulation/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
+    btn_label: "Regulation"
+    btn_color: "#AA889A"
+  - image_path: /assets/images/strategic-pillar-engage-employees.png
     alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
+    title: "Engage Employees"
+    excerpt: "By reaching out to the workfloor, to the companies and employees who are inventing our future technologies, we'll help them create what is best for humanity."
+    url: "/strategy/adoption/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Adoption"
+    btn_color: "#C08895"
+feature_row2:
+  - image_path: /assets/images/strategic-pillar-humane-technology.png
+    alt: "application"
+    title: "Apply Humane Technology"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/strategy/application/"
+    btn_class: "btn--primary"
+    btn_label: "Application"
+    btn_color: "#DB9288"
+feature_row3:
+  - title: '<span  class="fas fa-quote-left"></span>&nbsp; Facing unprecedented challenges, we can choose to remain open to possibility and creativity—not mired in despair.<br/><br/>Surely, the latter is a luxury that none can afford. We can create and enthusiastically share a solutions story today, every day. It is a revolutionary act. &nbsp;<span class="fas fa-quote-right"></span>'
+  - excerpt: "<i>Frances Moore Lappe, Activist</i>"
+feature_row4:
+  - title: '<span  class="fas fa-quote-left"></span>&nbsp; Humane Tech is technology that is responsive to how humans learn, think, and create and thrive &nbsp;<span class="fas fa-quote-right"></span>'
+  - excerpt: "<i>Ohio State University, humanetechosu.org</i>"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
+  - title: "Help Reinforce Our Message"
+  - excerpt: 'Like, share and comment on &nbsp; [<i class="fab fa-twitter"></i>](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row4" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="center" %}
+
+{% include feature_row id="intro" type="center" %}
