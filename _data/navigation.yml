@@ -2,20 +2,33 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Research"
+    url: /research/
+  - title: "People"
+    url: /people/
   - title: "Campaigns"
     url: /campaigns/
   - title: "Projects"
     url: /projects/
+  - title: "Resources"
+    url: /resources/
   - title: "About"
     url: /about/
 
 # strategy navigation
 strategy:
-  - title: "Cultural Awakening"
+  - title: "Awareness"
     url: /strategy/awareness/
-  - title: "Public Pressure"
+    children:
+      - title: "Wellbeing"
+        url: /awareness/wellbeing/
+      - title: "Relationships"
+        url: /awareness/relationships/
+      - title: "Civics"
+        url: /awareness/civics/
+  - title: "Regulation"
     url: /strategy/regulation/
-  - title: "Engage Employees"
+  - title: "Adoption"
     url: /strategy/adoption/
-  - title: "Apply Humane Design"
+  - title: "Application"
     url: /strategy/application/
