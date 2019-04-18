@@ -1,34 +1,61 @@
-# main links
+# main links (top header bar)
 main:
+  - title: "Forum"
+    url: https://community.humanetech.com
   - title: "Blog"
     url: /blog/
-  - title: "Research"
-    url: /research/
-  - title: "People"
-    url: /people/
-  - title: "Campaigns"
-    url: /campaigns/
-  - title: "Projects"
-    url: /projects/
+  - title: "Docs"
+    url: /docs/
+  - title: "Activities"
+    url: /activities/
   - title: "Resources"
     url: /resources/
   - title: "About"
     url: /about/
 
-# strategy navigation
-strategy:
-  - title: "Awareness"
-    url: /strategy/awareness/
+# focus areas (pyramids + harms)
+focusarea:
+  - title: "Wellbeing"
+    url: /focus/wellbeing/
     children:
-      - title: "Wellbeing"
-        url: /awareness/wellbeing/
-      - title: "Relationships"
-        url: /awareness/relationships/
-      - title: "Civics"
-        url: /awareness/civics/
-  - title: "Regulation"
-    url: /strategy/regulation/
-  - title: "Adoption"
-    url: /strategy/adoption/
-  - title: "Application"
-    url: /strategy/application/
+      - title: "Health"
+        url: /wellbeing/health/
+      - title: "Social"
+        url: /wellbeing/social/
+      - title: "Children &amp; teens"
+        url: /wellbeing/children-teens/
+      - title: "Mindfulness"
+        url: /wellbeing/mindfulness/
+  - title: "Freedom"
+    url: /focus/freedom/
+    children:
+      - title: "Openness"
+        url: /freedom/openness/
+      - title: "Diversity"
+        url: /freedom/diversity/
+      - title: "Security"
+        url: /freedom/security/
+      - title: "Privacy"
+        url: /freedom/privacy/
+  - title: "Society"
+    url: /focus/society/
+    children:
+      - title: "Inclusion"
+        url: /society/inclusion/
+      - title: "Regulation"
+        url: /society/regulation/
+      - title: "Sustainable business"
+        url: /society/sustainable-business/
+      - title: "Digital rights"
+        url: /society/digital-rights/
+  - title: "Alignment"
+    url: /focus/alignment/
+    children:
+      - title: "Humane design"
+        url: /alignment/inclusion/
+      - title: "Ethics"
+        url: /alignment/ethics/
+      - title: "Best practices"
+        url: /alignment/best-practices/
+      - title: "Standards"
+        url: /alignment/standards/
