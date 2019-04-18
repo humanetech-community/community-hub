@@ -20,7 +20,7 @@ title                    : "Humane Tech Community"
 title_separator          : "-"
 logo                     : "/assets/images/humanetech-community-logo-140x60.png"
 name                     : "Arnold Schrijver"
-description              : "Re-aligning Technology to Humanity's Best Interests"
+description              : "Promoting Solutions That Improve Wellbeing, Freedom and Society"
 url                      : "https://humanetech.community" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "humanetech-community/humanetech-community-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Arnold Schrijver"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Community facilitator for The Center for Humane Technology"
+  bio              : "Humane Tech Community Lead"
   location         : "The Netherlands"
   email            :
   links:
@@ -116,13 +116,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/humane_tech_now"
+    - label: "Forum"
+      icon: "fab fa-fw fa-discourse"
+      url: "https://community.humanetech.com/u/aschrijver/summary"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/aschrijver"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -288,6 +288,10 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  people_directory:
+    people: true
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -321,3 +325,10 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
+  # _people
+  - scope:
+      path: "_people"
+      type: people_directory
+    values:
+      layout: single
+      author_profile: false
