@@ -487,10 +487,32 @@
   margin: 0.5rem 0;
   padding: 0.25rem 0;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
+  font-size: $type-size-5; /* @aschrijver: enlarged, was: type-size-6 */
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
+}
+
+/* @aschrijver: class addition for nav_list nav and child items (pyramid colors + harms in red) */
+
+.nav__items .wellbeing {
+  color: #F16422;
+}
+
+.nav__items .freedom {
+  color: #00C109;
+}
+
+.nav__items .society {
+  color: #D91A0F;
+}
+
+.nav__items .alignment {
+  color: #0054a5;
+}
+
+.nav__items .harms {
+  padding-bottom: $type-size-8;
 }
 
 /*

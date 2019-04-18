@@ -17,7 +17,11 @@ main:
 focusarea:
   - title: "Wellbeing"
     url: /focus/wellbeing/
+    class: "wellbeing"
     children:
+      - title: "Harms to Wellbeing"
+        url: /harms/wellbeing/
+        class: "harms"
       - title: "Health"
         url: /wellbeing/health/
       - title: "Social"
@@ -28,7 +32,11 @@ focusarea:
         url: /wellbeing/mindfulness/
   - title: "Freedom"
     url: /focus/freedom/
+    class: "freedom"
     children:
+      - title: "Harms to Freedom"
+        url: /harms/freedom/
+        class: "harms"
       - title: "Openness"
         url: /freedom/openness/
       - title: "Diversity"
@@ -39,7 +47,11 @@ focusarea:
         url: /freedom/privacy/
   - title: "Society"
     url: /focus/society/
+    class: "society"
     children:
+      - title: "Harms to Society"
+        url: /harms/society/
+        class: "harms"
       - title: "Inclusion"
         url: /society/inclusion/
       - title: "Regulation"
@@ -50,6 +62,7 @@ focusarea:
         url: /society/digital-rights/
   - title: "Alignment"
     url: /focus/alignment/
+    class: "alignment"
     children:
       - title: "Humane design"
         url: /alignment/inclusion/
@@ -59,3 +72,18 @@ focusarea:
         url: /alignment/best-practices/
       - title: "Standards"
         url: /alignment/standards/
+
+# harms of technology navigation
+harms:
+  - title: "Harms"
+    url: /focus/harms-of-technology/
+    children:
+      - title: "Harms to Wellbeing"
+        url: /harms/wellbeing/
+        class: "harms"
+      - title: "Harms to Freedom"
+        url: /harms/freedom/
+        class: "harms"
+      - title: "Harms to Society"
+        url: /harms/society/
+        class: "harms"
