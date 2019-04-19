@@ -7,3 +7,16 @@ sidebar:
   nav: "focusarea"
 ---
 
+## Society
+
+![pyramid-of-society](/assets/images/humanetech-pyramid-of-society-tinted-bare.png)
+
+This pyramid is involved in making digital technology open and accessible, secure and safe. Allowing us to interact with confidence and communicate in civil ways, with inclusivity for everyone, regardless of gender, race, culture, opinion, politics or profession.
+
+Society involves the following aspects:
+
+
+- _Inclusion_: let all join and participate  
+- _Regulation_: rules we agree on as society
+- _Sustainable & alternative business_: old and new ways we can create business
+- _Digital rights_: rules and rights about the individuals 
