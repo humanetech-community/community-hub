@@ -7,3 +7,13 @@ sidebar:
   nav: "focusarea"
 ---
 
+## Wellbeing
+
+This pyramid addresses personal and social needs that are at play in the digital realm. Focus is on alleviation and avoidance of adverse physical and mental health effects. Health and harmony, balance in social contexts are requisites to finding happiness online.
+
+Wellbeing involves the following aspects:
+
+- _Health_: physical & mental health  
+- _Inter-personal_: involving relationships among people
+- _Children & teens_: how technology impacts on younger generations
+- _Mindfulness_: practices and techniques to improve our self-consciousness of being here and now
