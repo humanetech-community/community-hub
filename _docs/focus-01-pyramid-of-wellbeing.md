@@ -9,6 +9,8 @@ sidebar:
 
 ## Wellbeing
 
+![pyramid-of-wellbeing|690x362](/assets/images/humanetech-pyramid-of-wellbeing-tinted-bare.png)
+
 This pyramid addresses personal and social needs that are at play in the digital realm. Focus is on alleviation and avoidance of adverse physical and mental health effects. Health and harmony, balance in social contexts are requisites to finding happiness online.
 
 Wellbeing involves the following aspects:
