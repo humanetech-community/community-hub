@@ -7,3 +7,14 @@ sidebar:
   nav: "harms"
 ---
 
+## Harms of technology
+
+
+
+
+Harms of technology can impact on all areas:
+
+
+- _Harms to Wellbeing_
+- _Harms to Society_  
+- _Harms to Freedom_

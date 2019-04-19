@@ -7,3 +7,18 @@ sidebar:
   nav: "focusarea"
 ---
 
+## Alignment
+
+![pyramid-of-alignment](/assets/images/humanetech-pyramid-of-alignment-tinted-bare.png)
+
+
+Technology comes to play extensively in all the 3 pyramids of society, wellbeing and freedom. And there are common overlaps in all of them. Guidelines, design philosophy, patterns and best-practices, ethics, law and regulations, certification, tests and tools. In order to adopt the right solutions towards humane technology, there is a continuous process of discovery, adoption of what works and finally - when our insights become clear - the ability to evolve technology responsibly.
+
+
+Alignment involves the following aspects:
+
+
+- _Humane design_:   
+- _Ethics_:
+- _Best-practices_:
+- _Standards_:
