@@ -17,7 +17,7 @@ Right to privacy, to be anonymous, and even to stay offline, to be unreachable w
 Freedom involves the following aspects:
 
 
-- _Openness_:   
-- _Diversity_:
-- _Security_:
-- _Privacy_:
+- _Openness_: transparency and unrestricted access to information and collaborative or cooperative management and decision-making processes   
+- _Diversity_: freedom to express yourself no matter who you are and which diversities you embody
+- _Security_: feeling safe is a precondition to any kind of freedom
+- _Privacy_: how our personal data are considered and used by technology

@@ -15,6 +15,6 @@ sidebar:
 Harms of technology can impact on all areas:
 
 
-- _Harms to Wellbeing_
-- _Harms to Society_  
-- _Harms to Freedom_
+- _Harms to Wellbeing_: technology can be crafted in a way that undermines our wellbeing
+- _Harms to Society_: society as an organized group of people can be challenged by some technology use and applications and must reinvent itself everyday in order not to fail as a good, inclusive and thriving society       
+- _Harms to Freedom_: Our freedom as individuals can be endangered or negatively impacted in many ways by how technology is designed and used. 
