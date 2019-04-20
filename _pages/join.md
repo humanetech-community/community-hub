@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2019-04-20T09+02:00
 ---
 
-Welcome reader, to this first blog post of the Humane Tech Community. We are involved in **Humane Technology** and we have a challenging, but exciting road ahead of us on our mission to _"Promote Solutions that Improve Wellbeing, Freedom and Society"_.
+Welcome reader, to the Humane Tech Community. We are involved in **Humane Technology** and we have a challenging, but exciting road ahead of us on our mission to _"Promote Solutions that Improve Wellbeing, Freedom and Society"_.
 
 ## What we do and why
 
@@ -26,6 +26,18 @@ We all know this to a certain extent, yet we let it happen. We let ourselves get
 Surveillance capitalism - as this phenomenon is now known - is gaining strength, stripping us of privacy and freedoms. If not actively resisted and replaced with something better - offering a brighter blueprint of our future - it will inevitable give rise to things more dangerous and lasting: Technological dystopia ensues.
 
 Our community helps fight these and many other [Harms of Technology](/focus/harms-of-technology). We strive for technology that serves humanity, in ways that are beneficial to us all: We are on the quest for Humane Technology. Our vision is to have _"Ubiquitous Humane Technology that Allows Humans to Flourish and Humanity to Thrive"._
+
+## We focus on solutions
+
+Humane Technology is a vast, largely undiscovered field of knowledge. While we acknowledge the harms that come with new technology, and which define the need for technology to become more 'humane', our community takes the unique position of solely focusing on the solutions - most of whom already exist - to these harms. Where so many other communities and institutions - involved with improving technology - are focused on the problems, we take an optimistic approach to the future, and go ahead with positivity to investigate how technology can be changed to improve people's lives.
+
+We have defined a model for that, called _The Pyramids of Humane Technology_ and we envision that Humane Technology - once it become ubiquitous - leads to Human Flourishing. The pyramids model divides in three different focus areas: Wellbeing, Freedom and Society. And a fourth focus area - that of Technology Alignment - binds these three together. Each focus area is represented by a pyramid that - when taken together - forms a fifth pyramid: The **Pyramid of Human Flourishing**.
+
+![The Pyramids of Humane Technology](/assets/images/humane-tech-community-overview.jpg)
+
+The levels of the pyramids as shown above are very similar to a Maslow Pyramid of Needs, where each next level is reinforced by the ones below. The sweet spots - that what we strive to attain - can be found in the top of each pyramid.
+
+Do you want to help fill in this model, to refine the pyramids framework? Or in more prozaic terms: Do you want to fill the hidden pyramid chambers with treasures of Humane Technology? Then become a member and join our forum. [Be a Builder :heart: Help Improve Wellbeing, Freedom and Society!](https://community.humanetech.com/t/be-a-builder-help-improve-wellbeing-freedom-and-society/3322)
 
 ## How we started
 
