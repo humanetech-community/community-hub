@@ -8,7 +8,6 @@ sidebar:
 ---
 
 
-## Code of conduct
 
 This document aims at defining and inspiring good behaviours, communication and cooperation among members of this community, as well as at increasing open [source/culture/tech] citizenship by encouraging members to recognize and strengthen the relationships between their actions and their effects on our community.
 
