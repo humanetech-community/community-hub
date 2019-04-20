@@ -1,19 +1,20 @@
 # Authors to be referenced in Posts and Pages.
 # More info: https://mmistakes.github.io/minimal-mistakes/layout-author-override/
 
-Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  twitter     : "extravagantman"
-  google_plus : "BillyRick"
+Arnold Schrijver:
+  name        : "Arnold Schrijver"
+  uri         : 
+  email       : 
+  bio         : "Always a tech afficionado, but most passionate about building Humane Technology."
+  avatar      : 
+  linkedin    : "arnoldschrijver"
+  twitter     : "humane_tech_now"
+  github      : "aschrijver"
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  email       : "cornelius@thewhip.com"
-  bio         : "I ordered what?"
+Michele Minno:
+  name        : "Michele Minno"
+  email       : 
+  bio         : 
   avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : "rhymeswithsackit"
-  google_plus : "CorneliusFiddlebone"
+  twitter     : 
+  google_plus : 
