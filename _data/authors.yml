@@ -1,15 +1,17 @@
 # Authors to be referenced in Posts and Pages.
+#
+# See also: Supported default options at '_includes/author-profile.html'
 # More info: https://mmistakes.github.io/minimal-mistakes/layout-author-override/
 
 Arnold Schrijver:
   name        : "Arnold Schrijver"
-  uri         : 
+  uri         : "https://innercircles.community"
   email       : 
   bio         : "Always a tech afficionado, but most passionate about building Humane Technology."
-  avatar      : 
+  avatar      : "/assets/images/people/author-arnold-schrijver.jpg"
   linkedin    : "arnoldschrijver"
-  twitter     : "humane_tech_now"
   github      : "aschrijver"
+  forum       : "aschrijver"
 
 Michele Minno:
   name        : "Michele Minno"

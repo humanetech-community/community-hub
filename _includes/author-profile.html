@@ -153,6 +153,14 @@
         </li>
       {% endif %}
 
+      {% if author.forum %}
+        <li>
+          <a href="https://community.humanetech.com/u/{{ author.forum }}/summary" itemprop="sameAs">
+            <i class="fab fa-fw fa-discourse" aria-hidden="true"></i> Forum
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.gitlab %}
         <li>
           <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs">
