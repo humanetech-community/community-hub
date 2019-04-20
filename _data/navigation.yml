@@ -87,3 +87,15 @@ harms:
       - title: "Harms to Society"
         url: /harms/society/
         class: "harms"
+
+# navigation of the 'About' section
+about:
+  - title: "About"
+    url: /about/
+    children:
+      - title: "FAQ"
+        url: /about/faq/
+      - title: "Code of Conduct"
+        url: /about/code-of-conduct
+      - title: "Privacy Policy"
+        url: /about/privacy-policy
