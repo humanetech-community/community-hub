@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Humane Tech Community"
 title_separator          : "-"
 logo                     : "/assets/images/humanetech-community-logo-140x60.png"
-name                     : "Arnold Schrijver"
+name                     : "Community Team"
 description              : "Promoting Solutions That Improve Wellbeing, Freedom and Society"
 url                      : "https://humanetech.community" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arnold Schrijver"
+  name             : "Community Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Humane Tech Community Lead"
-  location         : "The Netherlands"
+  bio              : "We build with you!"
+  location         : "Global"
   email            :
   links:
     - label: "Email"
@@ -119,10 +119,10 @@ author:
       url: "https://twitter.com/humane_tech_now"
     - label: "Forum"
       icon: "fab fa-fw fa-discourse"
-      url: "https://community.humanetech.com/u/aschrijver/summary"
+      url: "https://community.humanetech.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/aschrijver"
+      url: "https://github.com/humanetech-community"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
