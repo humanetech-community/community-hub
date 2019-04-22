@@ -7,3 +7,4 @@ sidebar:
   nav: "focusarea"
 ---
 
+The next generation is more involved with technology than ever before. This can be an amazing thing, but can also lead to some pit falls. Young adults and children offer insights into the new and evolving ways by which technology is integrated into our lives, as well as how it affects well being and social interactions.

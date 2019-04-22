@@ -7,3 +7,4 @@ sidebar:
   nav: "focusarea"
 ---
 
+Design applied in technology (UIs, apps, software in general) that follow specific principles aligned to human being's needs, self-determination and freedom. Humane design empower people to do what they want to do in their life, their objectives and desires. Humane design doesn't exploit people's weaknesses, biases and neuroscience knowledge to distract them. User attention to a humanely designed UI, app, software lasts as long as it is deserved. Humane designers must always ask themselves: how much will this help the users in their lives?

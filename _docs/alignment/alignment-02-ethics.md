@@ -7,3 +7,4 @@ sidebar:
   nav: "focusarea"
 ---
 
+Ethics are the principles of conduct that guide and govern individuals and organizations. It is important to define what is considered “good” and what is considered “bad” when it comes to technology, privacy and data management.

@@ -7,3 +7,7 @@ sidebar:
   nav: "focusarea"
 ---
 
+Standards are a way of doing things that is established by some kind of authority or public consent (a de-facto standard).
+
+
+Check [here](http://www.functionsense.com/2012/10/standards-and-best-practices/) for a distinction between standard and best practice.
