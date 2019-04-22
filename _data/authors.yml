@@ -6,17 +6,19 @@
 Arnold Schrijver:
   name        : "Arnold Schrijver"
   uri         : "https://innercircles.community"
-  email       : 
+  email       :
   bio         : "Always a tech afficionado, but most passionate about building Humane Technology."
   avatar      : "/assets/images/people/author-arnold-schrijver.jpg"
   linkedin    : "arnoldschrijver"
   github      : "aschrijver"
   forum       : "aschrijver"
 
-Michele Minno:
-  name        : "Michele Minno"
-  email       : 
-  bio         : 
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : 
-  google_plus : 
+Siddhi Upadhyaya:
+  name : "Siddhi Upadhyaya"
+  uri : "https://saraswatiproject.weebly.com/"
+  email :
+  bio : "Learning isn’t about being ‘smart’; instead, it’s about practicing and persevering through challenges” - Sal Khan"
+  avatar : "/assets/images/people/author-siddhi-upadhyaya.jpg"
+  linkedin : "Siddhi Upadhyaya"
+  github : "siddhvicious"
+  forum : "Siddhi"
