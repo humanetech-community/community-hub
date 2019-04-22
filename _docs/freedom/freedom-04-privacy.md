@@ -25,4 +25,7 @@ Privacy is the freedom from unauthorized intrusion: state of being let alone and
 
 There is wide spectrum of how privacy is violated in our digital world even without general public awareness (privacy invasion, improper acquisition, use, storage). Privacy should be protected adopting a regulatory and/or technical approach.
 
+
+"You have to fight for your privacy or you will lose it“ (Eric Schmidt, Google/Alphabet, 2013)
+
 Check [this rich wikipedia definition for further information](https://en.wikipedia.org/wiki/Privacy).
