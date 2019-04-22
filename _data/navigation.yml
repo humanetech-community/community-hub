@@ -65,7 +65,7 @@ focusarea:
     class: "alignment"
     children:
       - title: "Humane design"
-        url: /alignment/inclusion/
+        url: /alignment/humane-design/
       - title: "Ethics"
         url: /alignment/ethics/
       - title: "Best practices"
