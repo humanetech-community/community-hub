@@ -1,6 +1,6 @@
 ---
-permalink: /join/
 title: "Join Our Community"
+permalink: /join/
 excerpt: "Are you an activist? Are you ready to defend humanity against the onslaught of tech disruptions? Do you want to improve technology best-practices? Then you should join our community and become a member!"
 header:
   overlay_image: /assets/images/humanetech-smartphone-background-1.jpg
@@ -11,6 +11,9 @@ categories:
 tags:
   - announcement
 last_modified_at: 2019-04-20T09+02:00
+sidebar:
+  nav: "about"
+author_profile: true
 ---
 
 Welcome reader, to the Humane Tech Community. We are involved in **Humane Technology** and we have a challenging, but exciting road ahead of us on our mission to _"Promote Solutions that Improve Wellbeing, Freedom and Society"_.
