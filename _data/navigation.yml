@@ -93,6 +93,8 @@ about:
   - title: "About"
     url: /about/
     children:
+      - title: "Join Us"
+        url: "/join/"
       - title: "FAQ"
         url: /about/faq/
       - title: "Code of Conduct"

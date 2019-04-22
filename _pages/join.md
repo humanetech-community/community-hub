@@ -5,7 +5,7 @@ excerpt: "Are you an activist? Are you ready to defend humanity against the onsl
 header:
   overlay_image: /assets/images/humanetech-smartphone-background-1.jpg
   overlay_filter: rgba(50, 50, 50, 0.5)
-  og_image: /assets/images/humanetech-community-ogimage.png
+  og_image: /assets/images/humane-tech-community-overview-500x300.png
 categories: 
   - General
 tags:
