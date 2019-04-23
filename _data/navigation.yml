@@ -13,6 +13,18 @@ main:
   - title: "About"
     url: /about/
 
+# top-level pages (docs, activities, resources)
+topleveldocs:
+  - title: "Documentation"
+    url: /Docs/
+    class: "padding"
+  - title: "Activities"
+    url: /activities/
+    class: "padding"
+  - title: "Resources"
+    url: /resources/
+    class: "padding"
+
 # focus areas (pyramids + harms)
 focusarea:
   - title: "Wellbeing"
@@ -21,7 +33,7 @@ focusarea:
     children:
       - title: "Harms to Wellbeing"
         url: /harms/wellbeing/
-        class: "harms"
+        class: "padding"
       - title: "Health"
         url: /wellbeing/health/
       - title: "Social"
@@ -36,7 +48,7 @@ focusarea:
     children:
       - title: "Harms to Freedom"
         url: /harms/freedom/
-        class: "harms"
+        class: "padding"
       - title: "Openness"
         url: /freedom/openness/
       - title: "Diversity"
@@ -51,7 +63,7 @@ focusarea:
     children:
       - title: "Harms to Society"
         url: /harms/society/
-        class: "harms"
+        class: "padding"
       - title: "Inclusion"
         url: /society/inclusion/
       - title: "Regulation"
