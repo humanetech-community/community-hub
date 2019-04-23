@@ -7,3 +7,4 @@ sidebar:
   nav: "focusarea"
 ---
 
+Our freedom is endangered in many ways by the use of much of technology of today.

@@ -7,3 +7,4 @@ sidebar:
   nav: "focusarea"
 ---
 
+From open source to open policies everything is better if everybody knows the rules of the game!

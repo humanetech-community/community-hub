@@ -7,3 +7,4 @@ sidebar:
   nav: "focusarea"
 ---
 
+Online our lives and private data must first of all be secure and inviolated. This is the precondition for all other freedoms and potentials to thrive. 
