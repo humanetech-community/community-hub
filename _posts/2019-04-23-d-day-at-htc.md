@@ -1,6 +1,6 @@
 ---
-title:  "April 23rd is D-Day of The Center for Humane Technology"
-excerpt: "I am just a small guy, I realize it and have come to appreciate that. Yes, I can even say that I crave to become smaller and smaller, until I am tiny."
+title:  "Today is D-Day at The Center for Humane Technology: &quot;A New Agenda for Tech&quot; Livestream"
+excerpt: "April 23rd is a very special day. After a full year operating under the radar, preparing, The Center for Humane Technology will set &quot;A New Agenda for Tech&quot;!"
 header:
   teaser: /assets/images/blog/d-day-at-htc/humanetech-htc-livestream-announcement.jpg
   og_image: /assets/images/blog/d-day-at-htc/humanetech-htc-livestream-announcement.jpg
@@ -13,7 +13,7 @@ layout: single
 classes: wide
 ---
 
-Today is a very special day. After a full year operating mostly under the radar—preparing, strategizing, planning, the Center for Humane Technology (or CHT) is finally going public with its Roadmap. From today onwards for everyone working in the sector there will be **A New Agenda for Tech!** Take notice.
+Today is a very special day. After a full year operating mostly under the radar — preparing, strategizing, planning - the Center for Humane Technology (or CHT) is finally going public with its Roadmap. From today onwards for everyone working in the sector there will be **A New Agenda for Tech!** Take notice.
 
 ![Center for Humane Technology Announcement](/assets/images/blog/d-day-at-htc/humanetech-cht-livestream-announcement.jpg){: .align-center}
 
