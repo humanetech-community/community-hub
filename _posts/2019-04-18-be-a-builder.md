@@ -72,7 +72,7 @@ It provides clarity and structure and the way forward - the outline of a path - 
 
 ---
 
-We highly value your feedback: https://community.humanetech.com/t/reflections-on-new-mission-and-vision-pyramids-of-humane-technology/3389
+We highly value your feedback. Do not hesitate and add your comments below..
 
 ---
 

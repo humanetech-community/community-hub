@@ -11,6 +11,7 @@ tags:
 last_modified_at: 2019-04-23T12+02:00
 layout: single
 classes: wide
+comments: true
 ---
 
 Today is a very special day. After a full year operating mostly under the radar — preparing, strategizing, planning - the Center for Humane Technology (or CHT) is finally going public with its Roadmap. From today onwards for everyone working in the sector there will be **A New Agenda for Tech!** Take notice.
