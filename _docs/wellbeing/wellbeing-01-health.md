@@ -7,3 +7,4 @@ sidebar:
   nav: "focusarea"
 ---
 
+Our body and mind are constantly changing according to our environment and the stimuli they receive from it. Technology has always been one of the most disruptive factors, both in the good and in the bad side. Let's design and use technology to bring ourselves harmony, health and strength to do what we want to do. 

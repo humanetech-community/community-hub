@@ -7,3 +7,4 @@ sidebar:
   nav: "focusarea"
 ---
 
+Technology is affecting the way with relate each other. It brought fantastic possibilities, not even imaginable some decades ago, but also terrible dangers and negative effects. Let's guide it towards the path of enhancing our relationships, social skills and opportunities.
