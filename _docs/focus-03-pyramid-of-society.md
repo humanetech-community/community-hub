@@ -16,7 +16,7 @@ This pyramid is involved in making digital technology open and accessible, secur
 Society involves the following aspects:
 
 
-- _Inclusion_: let all join and participate  
-- _Regulation_: rules we agree on as society
-- _Sustainable & alternative business_: old and new ways we can create business
-- _Digital rights_: rules and rights about the individuals 
+- [_Inclusion_](/society/inclusion/): let all join and participate  
+- [_Regulation_](/society/regulation/): rules we agree on as society
+- [_Sustainable & alternative business_](/society/sustainable-business/): old and new ways we can create business
+- [_Digital rights_](/society/digital-rights/): rules and rights about the individuals

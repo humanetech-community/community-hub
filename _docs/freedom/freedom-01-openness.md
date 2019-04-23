@@ -7,4 +7,6 @@ sidebar:
   nav: "focusarea"
 ---
 
-From open source to open policies everything is better if everybody knows the rules of the game!
+From open source to open policies everything is better if everybody knows the rules of the game! Interaction, contribution and action towards common goals can boost if they can flourish in openness. 
+
+*FOSS*: [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software).

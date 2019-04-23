@@ -18,7 +18,7 @@ Technology comes to play extensively in all the 3 pyramids of society, wellbeing
 Alignment involves the following aspects:
 
 
-- _Humane design_: design technology in a way that aligns with human needs and aspirations  
-- _Ethics_: ethical issues about technology
-- _Best-practices_: practices, tips and guides derived from experience
-- _Standards_: protocols, methodologies and common formats agreed among communities
+- [_Humane design_](/alignment/humane-design/): design technology in a way that aligns with human needs and aspirations  
+- [_Ethics_](/alignment/ethics/): ethical issues about technology
+- [_Best-practices_](/alignment/best-practices/): practices, tips and guides derived from experience
+- [_Standards_](/alignment/standards/): protocols, methodologies and common formats agreed among communities

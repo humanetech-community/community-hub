@@ -15,7 +15,7 @@ This pyramid addresses personal and social needs that are at play in the digital
 
 Wellbeing involves the following aspects:
 
-- _Health_: physical & mental health  
-- _Inter-personal_: involving relationships among people
-- _Children & teens_: how technology impacts on younger generations
-- _Mindfulness_: practices and techniques to improve our self-consciousness of being here and now
+- [_Health_](/wellbeing/health/): physical & mental health  
+- [_Inter-personal_](/wellbeing/social/): involving relationships among people
+- [_Children & teens_](/wellbeing/children-teens/): how technology impacts on younger generations
+- [_Mindfulness_](/wellbeing/mindfulness/): practices and techniques to improve our self-consciousness of being here and now
