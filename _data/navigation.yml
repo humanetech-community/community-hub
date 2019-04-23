@@ -18,6 +18,15 @@ topleveldocs:
   - title: "Documentation"
     url: /Docs/
     class: "padding"
+    # children:
+    #   - title: "Wellbeing"
+    #     url: /focus/wellbeing/
+    #   - title: "Freedom"
+    #     url: /focus/freedom/
+    #   - title: "Society"
+    #     url: /focus/society/
+    #   - title: "Alighnment"
+    #     url: /focus/alignment/
   - title: "Activities"
     url: /activities/
     class: "padding"
@@ -92,13 +101,13 @@ harms:
     children:
       - title: "Harms to Wellbeing"
         url: /harms/wellbeing/
-        class: "harms"
+        class: "padding"
       - title: "Harms to Freedom"
         url: /harms/freedom/
-        class: "harms"
+        class: "padding"
       - title: "Harms to Society"
         url: /harms/society/
-        class: "harms"
+        class: "padding"
 
 # navigation of the 'About' section
 about:
