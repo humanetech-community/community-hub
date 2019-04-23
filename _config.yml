@@ -108,24 +108,21 @@ author:
   location         : "Global"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: https://www.linkedin.com/company/humanetech-community/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/humane_tech_now"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/humane_tech_community/"
     - label: "Forum"
       icon: "fab fa-fw fa-discourse"
       url: "https://community.humanetech.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/humanetech-community"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/humane_tech_community/"
 
 # Site Footer
 footer:
