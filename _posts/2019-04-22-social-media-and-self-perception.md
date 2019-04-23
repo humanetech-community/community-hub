@@ -1,18 +1,21 @@
 ---
 title:  "Social Media and Self Perception : A Personal Reflection"
+permalink: /wellbeing/children and teens/social-media-and-self-perception/
 excerpt: "I accepted that I was human, imperfect, and that it was okay to not look like my ‘best’ self all the time."
-
 author: Siddhi Upadhyaya
-categories:
-  - Wellbeing
-  - Children and teens
-tags:
-  - social media
-  - wellbeing
-  - children and teens
 last_modified_at: 2019-04-22T12+02:00
 layout: single
 classes: wide
+
+# See: https://github.com/humanetech-community/community-hub/issues/48
+# 
+# categories:
+#   - Wellbeing
+#   - Children and teens
+# tags:
+#   - social media
+#   - wellbeing
+#   - children and teens
 ---
 
 I have big, long, curly hair. And for a long, time, I had no idea what to do with it. I hated seeing all my friends with straight hair glide from PE to German without a hair out of place while I looked like someone put me in a wind tunnel. I spent my freshman year of high school with my hair in a bun. But thanks to the world wide web, I was able to find blogs, Instagram pages, and Youtube channels full of curated advice and helpful tips so that I could wear my hair down without fear.

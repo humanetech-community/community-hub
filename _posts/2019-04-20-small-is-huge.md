@@ -1,18 +1,22 @@
 ---
 title:  "Small is Huge!"
+permalink: "/general/small-is-huge/"
 excerpt: "I am just a small guy, I realize it and have come to appreciate that. Yes, I can even say that I crave to become smaller and smaller, until I am tiny."
 header:
   image: /assets/images/blog/small-is-huge/small-meteorite-from-mars.jpg
   teaser: /assets/images/blog/small-is-huge/small-meteorite-from-mars.jpg
   og_image: /assets/images/blog/small-is-huge/small-meteorite-from-mars.jpg
 author: Arnold Schrijver
-categories:
-  - General
-tags:
-  - announcement
 last_modified_at: 2019-04-20T09+02:00
 layout: single
 classes: wide
+
+# See: https://github.com/humanetech-community/community-hub/issues/48
+# 
+# categories:
+#  - General
+# tags:
+#  - announcement
 ---
 
 **I am just a small guy, I realize it and have come to appreciate that. Yes, I can even say that I crave to become smaller and smaller, until I am tiny. Not small in posture or narrowness of the mind, by the way. Not that small. No, I'd love to become small in my ambition. Lucky for me, I have come quite far in achieving that goal in a relatively short time. It took me less than two years to reduce my ambition in life to an almost insignificant objective: To have mankind flourish and humanity thrive. And of course fix some minor hurdles along the way, like climate change and the environmental pollution that comes from success. I can say, it is a huge relief to just be modest and pay attention to other more meaningful things than being successful. In other words, I have come to see that Small is Huge!**
