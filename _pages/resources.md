@@ -8,6 +8,14 @@ sidebar:
   nav: "resources"
 ---
 
+## Videos
+
+---
+
+## Books
+
+---
+
 
 
 ## Articles
