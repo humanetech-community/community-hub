@@ -17,16 +17,15 @@ main:
 topleveldocs:
   - title: "Documentation"
     url: /Docs/
-    class: "padding"
-    # children:
-    #   - title: "Wellbeing"
-    #     url: /focus/wellbeing/
-    #   - title: "Freedom"
-    #     url: /focus/freedom/
-    #   - title: "Society"
-    #     url: /focus/society/
-    #   - title: "Alighnment"
-    #     url: /focus/alignment/
+    children:
+      - title: "Wellbeing"
+        url: /focus/wellbeing/
+      - title: "Freedom"
+        url: /focus/freedom/
+      - title: "Society"
+        url: /focus/society/
+      - title: "Alignment"
+        url: /focus/alignment/
   - title: "Activities"
     url: /activities/
     class: "padding"
