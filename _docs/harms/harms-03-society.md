@@ -7,4 +7,6 @@ sidebar:
   nav: "focusarea"
 ---
 
-Our society is endangered in many ways by the use of much of technology of today.
+Our society is endangered in many ways by the use of some of the current technology products/services. I.e.:
+
+- Social media and media platform in general gain attention (time, energy, participation, ..) if the user is sad, angry and show divisive feelings towards other people. Any kind of content showing conspiracy theories and  rage flourishes. This can push any kind of minority, ethnic group, etc. to drift apart instead of moving closer each to the other. 

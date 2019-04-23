@@ -7,4 +7,6 @@ sidebar:
   nav: "focusarea"
 ---
 
-Our wellbeing is endangered in many ways by the use of much of technology of today.
+Our wellbeing is endangered in many ways by the use of some of the current technology products/services. I.e.:
+
+- Apps that drive our attention and feed us with dopamine boost, making us addicted to them.

@@ -7,4 +7,6 @@ sidebar:
   nav: "focusarea"
 ---
 
-Our freedom is endangered in many ways by the use of much of technology of today.
+Our freedom is endangered in many ways by the use of some of the current technology products/services. I.e.:
+
+- Surveillance capitalism: our data are gathered even without our consent, each day new areas of private domain are conquered and harvested to gain richer user profiles and let all stakeholders in play survive and thrive.
