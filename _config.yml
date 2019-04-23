@@ -147,7 +147,7 @@ footer:
       url: "https://www.youtube.com/channel/UCNOwH0lDhzhJanZ09Il3R2A"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/humanetech_community/"
+      url: "https://www.instagram.com/humane_tech_community/"
     - label: "Discourse"
       icon: "fab fa-fw fa-discourse"
       url: "https://community.humanetech.com"
