@@ -4,8 +4,8 @@ permalink: "/general/small-is-huge/"
 excerpt: "I am just a small guy, I realize it and have come to appreciate that. Yes, I can even say that I crave to become smaller and smaller, until I am tiny."
 header:
   image: /assets/images/blog/small-is-huge/small-meteorite-from-mars.jpg
-  teaser: /assets/images/blog/small-is-huge/small-meteorite-from-mars.jpg
-  og_image: /assets/images/blog/small-is-huge/small-meteorite-from-mars.jpg
+  teaser: /assets/images/blog/small-is-huge/small-meteorite-from-mars-ogimage.jpg
+  og_image: /assets/images/blog/small-is-huge/small-meteorite-from-mars-ogimage.jpg
 author: Arnold Schrijver
 last_modified_at: 2019-04-20T09+02:00
 layout: single
