@@ -97,3 +97,37 @@
     font-size: $type-size-7;
   }
 }
+
+/* [custom] class addition for button backgrounds on landing page (pyramid colors) */
+
+.btn--primary.wellbeing {
+  background-color: #F16422;
+
+  &:hover {
+    @include yiq-contrasted(mix(#000, #F16422, 20%));
+  }
+}
+
+.btn--primary.freedom {
+  background-color: #00C109;
+
+  &:hover {
+    @include yiq-contrasted(mix(#000, #00C109, 20%));
+  }
+}
+
+.btn--primary.society {
+  background-color: #D91A0F;
+
+  &:hover {
+    @include yiq-contrasted(mix(#000, #D91A0F, 20%));
+  }
+}
+
+.btn--primary.alignment {
+  background-color: #0054a5;
+
+  &:hover {
+    @include yiq-contrasted(mix(#000, #0054a5, 20%));
+  }
+}
