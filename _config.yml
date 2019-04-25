@@ -301,6 +301,15 @@ collections:
 
 # Defaults
 defaults:
+  # general (_about, _activities, _docs, _resources)
+  - scope:
+      path: ""
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
   # _pages
   - scope:
       path: "_pages"
@@ -318,17 +327,6 @@ defaults:
       comments: false
       share: true
       related: true
-  # _docs
-  - scope:
-      path: "_docs"
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
   # _people
   - scope:
       path: "_people"
