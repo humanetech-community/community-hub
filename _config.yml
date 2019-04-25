@@ -295,9 +295,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   people_directory:
-    people: true
     output: true
-    permalink: /:collection/:path/
+    permalink: /people/:path/
 
 # Defaults
 defaults:
@@ -327,10 +326,12 @@ defaults:
       comments: false
       share: true
       related: true
-  # _people
+      sidebar:
+        nav: "docs"
+  # _people_directory
   - scope:
-      path: "_people"
+      path: ""
       type: people_directory
     values:
       layout: single
-      author_profile: false
+      author_profile: true

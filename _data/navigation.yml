@@ -10,6 +10,8 @@ main:
     url: /activities/
   - title: "Resources"
     url: /resources/
+  # - title: "People"
+  #   url: /people/
   - title: "About"
     url: /about/
 

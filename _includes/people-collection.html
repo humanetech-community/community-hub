@@ -1,0 +1,19 @@
+{% assign entries = site[include.collection] %}
+
+{% if include.sort_by == 'name' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'name' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'name' %}
+  {% endif %}
+{% elsif include.sort_by == 'profession' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'profession' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'profession' %}
+  {% endif %}
+{% endif %}
+
+{%- for person in entries -%}
+  {% include person-single.html %}
+{%- endfor -%}

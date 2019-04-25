@@ -1,0 +1,34 @@
+{% if person.avatar %}
+  {% capture avatar %}{{ person.avatar }}{% endcapture %}
+{% else %}
+  {% assign avatar = site.teaser %}
+{% endif %}
+
+{% if person.id %}
+  {% assign title = person.name | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = person.name %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and avatar %}
+      <div class="author__avatar">
+        <img src=
+          {% if avatar contains "://" %}
+            "{{ avatar }}"
+          {% else %}
+            "{{ avatar | relative_url }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ person.url | relative_url }}" rel="permalink">{{ title }}</a>
+    </h2>
+    {% if person.position %}
+      <p class="page__meta"><i class="far fa-user" aria-hidden="true"></i> {{ person.position | markdownify | strip_html | truncate: 30 }}</p>
+    {% endif %}
+    {% if person.bio %}<p class="archive__item-excerpt" itemprop="description">{{ person.bio | markdownify | strip_html | truncate: 100 }}</p>{% endif %}
+  </article>
+</div>

@@ -2,6 +2,9 @@
 #
 # See also: Supported default options at '_includes/author-profile.html'
 # More info: https://mmistakes.github.io/minimal-mistakes/layout-author-override/
+#
+# Avatars must in size 290x310 or similar aspect ratio, to ensure proper circular 
+# cutout, and alignmen in grids.
 
 Arnold Schrijver:
   name        : "Arnold Schrijver"
