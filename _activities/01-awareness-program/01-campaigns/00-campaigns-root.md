@@ -7,16 +7,16 @@ sidebar:
   nav: "activities"
 custom_pagination:
   prev: /awareness-program/campaign-themes/
-  next: /activities/solutions-program/
+  next: /awareness-program/deliverables/
 ---
 
 ## Launched
 
 | Campaign | Theme | Discussion | Description |
 | :--- | :---: | :---: | :--- |
-| [**Aware Prepare**](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/aware-prepare) | [Dogfooding](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/24), [forum](https://community.humanetech.com/t/phone-zombies-campaign-anchoring-the-term-phone-zombies-in-common-language/2710) | Growth hacking the Awareness Campaigns project |
-| [**Eventful**](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/eventful) | [Dogfooding](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/62), [forum](https://community.humanetech.com/t/eventful-campaign-foster-a-vibrant-meetup-culture-organize-exciting-events/3024) | Foster a vibrant meetup culture, organize exciting events |
-| [**Goodies**](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/goodies) | [Dogfooding](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/themes/dogfooding/README.md) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/65), [forum](https://community.humanetech.com/t/goodies-promotional-materials-for-the-humane-tech-community/3222) | Promotional materials for the Humane Tech Community |
+| [**Aware Prepare**](/awareness-program/campaigns/aware-prepare) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/2839) | Growth hacking the community and Awareness Program. |
+| [**Eventful**](/awareness-program/campaigns/eventful) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3024) | Foster a vibrant meetup culture, organize exciting events. |
+| [**Goodies**](/awareness-program/campaigns/goodies) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3222) | Promotional materials for the Humane Tech Community. |
 
 ## Ideation
 

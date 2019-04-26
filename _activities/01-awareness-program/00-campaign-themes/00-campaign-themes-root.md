@@ -10,6 +10,10 @@ custom_pagination:
   next: /awareness-program/campaigns/
 ---
 
+## About
+
+## Current themes
+
 | Theme | Discussion | Description |
 | :--- | :---: | :--- |
 | [**Dogfooding**](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/2825) | Using campaigns to strengthen our projects and community. |
@@ -17,4 +21,10 @@ custom_pagination:
 | [**Speak Easy**](/awareness-program/campaign-themes/speak-easy/) | [forum](https://community.humanetech.com/t/2786) | Introducing language to change habits and culture. |
 | [**Tech Wise**](/awareness-program/campaign-themes/tech-wise/) | [forum](https://community.humanetech.com/t/2772) | Promoting prudent technology use in child education. |
 | [**Digi Rights**](/awareness-program/campaign-themes/digi-rights) | [forum](https://community.humanetech.com/t/492) | Applying fundamental Human Rights to the Digital Realm. |
+
+## Proposed themes
+
+| Theme | Discussion | Description |
+| :--- | :---: | :--- |
 | **Resocialized Media** | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/61), [forum](https://community.humanetech.com/t/3009) | Re-engineer the social values, beliefs and norms of Social Media. |
+

@@ -10,7 +10,7 @@ custom_pagination:
   next: /awareness-program/campaign-themes/
 ---
 
-These are some of the current Campaign themes and Campaign in the awareness program (refer to the project's [Issue Tracker](https://github.com/humanetech-community/awareness-program/issues) for more proposals).
+The Awareness Program is an ongoing activity run by the [Humane Tech Community](https://community.humanetech.com). In this space our members collaborate to create (social) media campaigns that aim to inform the wider public on the problems that come with modern technology and the need to address these by applying Humane Technology. Of course, non-members can contribute just as well, though - if you are as concerned as us about the impact of technology on our society - we heartily invite you to [join our community](/join/)!
 
 ## Campaign themes
 
