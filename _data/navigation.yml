@@ -95,6 +95,32 @@ focusarea:
       - title: "Standards"
         url: /alignment/standards/
 
+# activities navigation
+activities:
+  - title: "Activities"
+    url: /activities/
+    children:
+      - title: "Events"
+        url: /activities/events/
+      - title: "Meetup chapters"
+        url: /activities/meetups/
+  - title: "Awareness"
+    url: /activities/awareness-program/
+    children:
+      - title: "Campaign themes"
+        url: /awareness-program/campaign-themes/
+      - title: "Campaigns"
+        url: /awareness-program/campaigns/
+  - title: "Solutions"
+    url: /activities/solutions-program/
+    children:
+      - title: "Projects"
+        url: /solutions-program/projects/
+  - title: "Education"
+    url: /activities/education-program/
+  - title: "Research"
+    url: /activities/research-program/
+
 # harms of technology navigation
 harms:
   - title: "Harms"
@@ -108,7 +134,7 @@ harms:
         class: "padding"
       - title: "Harms to Society"
         url: /harms/society/
-        class: "padding"
+        class: "padding"     
 
 # navigation of the 'About' section
 about:
