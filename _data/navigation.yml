@@ -111,6 +111,8 @@ activities:
         url: /awareness-program/campaign-themes/
       - title: "Campaigns"
         url: /awareness-program/campaigns/
+      - title: "Deliverables"
+        url: /awareness-program/deliverables/
   - title: "Solutions"
     url: /activities/solutions-program/
     children:
