@@ -304,12 +304,12 @@ defaults:
   - scope:
       path: ""
     values:
-      permalink: /:year/:month/:slug
       layout: single
       read_time: false
       author_profile: false
       share: false
       comments: false
+      classes: wide
   # _pages
   - scope:
       path: "_pages"
@@ -321,14 +321,13 @@ defaults:
       path: ""
       type: posts
     values:
+      permalink: /:year/:month/:slug
       layout: single
       author_profile: true
       read_time: true
       comments: false
       share: true
       related: true
-      sidebar:
-        nav: "docs"
   # _people_directory
   - scope:
       path: ""
