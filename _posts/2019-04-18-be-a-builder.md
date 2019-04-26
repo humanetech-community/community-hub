@@ -1,13 +1,10 @@
 ---
 title:  "Be a Builder: Help Improve Wellbeing, Freedom and Society!"
-permalink: /general/be-a-builder/
 excerpt: "We proudly announce to you the Mission and Vision we have adopted at the Humane Tech Community. We are building Pyramids again!"
 header:
   teaser: /assets/images/blog/be-a-builder/humane-tech-community-overview.png
   og_image: /assets/images/blog/be-a-builder/humane-tech-community-overview.png
 last_modified_at: 2019-04-18T07+02:00
-layout: single
-classes: wide
 comments: true
 
 # See: https://github.com/humanetech-community/community-hub/issues/48
