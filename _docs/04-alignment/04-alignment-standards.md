@@ -5,6 +5,8 @@ excerpt: "How the theme is organized and what all of the files are for."
 last_modified_at: 2019-04-18T11+02:00
 sidebar:
   nav: "focusarea"
+custom_pagination:
+  next: /activities/
 ---
 
 Standards are a way of doing things that is established by some kind of authority or public consent (a de-facto standard).

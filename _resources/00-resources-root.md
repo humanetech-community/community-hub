@@ -6,6 +6,9 @@ author_profile: false
 last_modified_at: 2019-04-20T12+02:00
 sidebar:
   nav: "topleveldocs"
+custom_pagination:
+  prev: /activities/
+  next: /about/
 ---
 
 ## Wellbeing
