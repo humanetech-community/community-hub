@@ -1,13 +1,10 @@
 ---
 title:  "Today is D-Day at The Center for Humane Technology: &quot;A New Agenda for Tech&quot; Livestream"
-permalink: /general/d-day-at-cht/
 excerpt: "April 23rd is a very special day. After a full year operating under the radar, preparing, The Center for Humane Technology will set &quot;A New Agenda for Tech&quot;!"
 header:
   teaser: /assets/images/blog/d-day-at-cht/humanetech-cht-livestream-announcement.jpg
   og_image: /assets/images/blog/d-day-at-cht/humanetech-cht-livestream-announcement.jpg
 last_modified_at: 2019-04-23T12+02:00
-layout: single
-classes: wide
 comments: true
 
 # See: https://github.com/humanetech-community/community-hub/issues/48

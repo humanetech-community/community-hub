@@ -1,13 +1,10 @@
 ---
 title:  "Humane Tech Community Position Statement"
-permalink: /general/position-statement/
 excerpt: "With our mindset of optimism, positivity and solution focus we at Humane Tech Community are uniquely focused to tackle the Harms of Technology."
 header:
   teaser: /assets/images/blog/position-statement/humanetech-community-open-canvas-summary.png
   og_image: /assets/images/blog/position-statement/humanetech-community-open-canvas-summary.png
 last_modified_at: 2019-04-18T07+02:00
-layout: single
-classes: wide
 comments: true
 
 # See: https://github.com/humanetech-community/community-hub/issues/48

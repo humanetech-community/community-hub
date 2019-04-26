@@ -304,6 +304,7 @@ defaults:
   - scope:
       path: ""
     values:
+      permalink: /:year/:month/:slug
       layout: single
       read_time: false
       author_profile: false
