@@ -97,15 +97,13 @@ focusarea:
 
 # activities navigation
 activities:
-  - title: "Activities"
-    url: /activities/
+  - title: "Events"
     children:
-      - title: "Events"
+      - title: "Upcoming &amp; past events"
         url: /activities/events/
       - title: "Meetup chapters"
         url: /activities/meetups/
   - title: "Awareness"
-    url: /activities/awareness-program/
     children:
       - title: "Campaign themes"
         url: /awareness-program/campaign-themes/
@@ -114,7 +112,6 @@ activities:
       - title: "Deliverables"
         url: /awareness-program/deliverables/
   - title: "Solutions"
-    url: /activities/solutions-program/
     children:
       - title: "Projects"
         url: /solutions-program/projects/

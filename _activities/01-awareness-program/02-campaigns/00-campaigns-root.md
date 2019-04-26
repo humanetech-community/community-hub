@@ -12,9 +12,11 @@ custom_pagination:
 
 ## About
 
-The primary objective of the Awareness Program is to run campaigns. A **Campaign** is any planned activity to promote Humane Technology to a broader public, and that involves the Humane Tech Community.
+Campaigns are at the heart of the Awareness Program. They are where members team up to plan coordinated activities. Each **Campaign** has its own goals and deliverables to be produced when the campaign executes. Each campaign defines its own campaign strategy. Campaigns are less abstract concept than a campaign themes, and they can be short-lived, only executing to produce their deliverables and then finish.
 
 In addition to the Campaigns displayed in this page, additional campaign proposals may be found in the [Issue Tracker](https://github.com/humanetech-community/awareness-program/issues?q=is%3Aissue+is%3Aopen+label%3Acampaign-proposal) of the Github repository associated with the Awareness Program.
+
+Every Humane Tech Community member can suggest new Campaigns by posting in the [Awareness program](https://community.humanetech.com/c/awareness-program).
 
 ## Launched
 

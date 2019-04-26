@@ -6,11 +6,15 @@ last_modified_at: 2019-04-26T13+02:00
 sidebar:
   nav: "activities"
 custom_pagination:
-  prev: /activities/awareness-program/
+  prev: /activities/meetup-chapters/
   next: /awareness-program/campaigns/
 ---
 
 ## About
+
+Every campaign has a **Theme** and themes can have multiple campaigns. Themes have high-level, long-term objectives to be attained by execution of their related Campaigns. Hence they are long-lived and determine the focus and scope of the campaigns that adhere to the theme.
+
+Every Humane Tech Community member can suggest new Themes by posting in the [Awareness program](https://community.humanetech.com/c/awareness-program).
 
 ## Current themes
 

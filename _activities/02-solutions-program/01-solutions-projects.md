@@ -1,16 +1,20 @@
 ---
-permalink: /activities/solutions-program/
-title: "Solutions program"
-excerpt: "Solutions of the Humane Tech Community"
+permalink: /solutions-program/projects
+title: "Projects"
+excerpt: "Projects of the Humane Tech Community"
 last_modified_at: 2019-04-26T13+02:00
 sidebar:
   nav: "activities"
 custom_pagination:
-  prev: /activities/awareness-program/
+  prev: /awareness-program/deliverables/
   next: /activities/education-program/
 ---
 
-## Projects
+## About
+
+All the projects that are facilitated by the Humane Tech Community. Every member can suggest new projects on the community forum by posting their ideas to the [Solutions program](https://community.humanetech.com/c/solutions-program) forum category.
+
+## Current projects
 
 | Project | Status | Description |
 | :--- | :--- | :--- |

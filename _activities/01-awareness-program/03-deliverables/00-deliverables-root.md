@@ -7,7 +7,7 @@ sidebar:
   nav: "activities"
 custom_pagination:
   prev: /awareness-program/campaigns/
-  next: /activities/solutions-program/
+  next: /solutions-program/projects/
 ---
 
 ## About
