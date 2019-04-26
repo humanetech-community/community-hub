@@ -102,7 +102,7 @@ activities:
       - title: "Upcoming &amp; past events"
         url: /activities/events/
       - title: "Meetup chapters"
-        url: /activities/meetup-chapters/
+        url: /activities/meetup-chapters/ 
   - title: "Awareness"
     children:
       - title: "Campaign themes"
