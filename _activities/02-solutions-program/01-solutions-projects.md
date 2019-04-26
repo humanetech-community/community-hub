@@ -1,5 +1,5 @@
 ---
-permalink: /solutions-program/projects
+permalink: /solutions-program/projects/
 title: "Projects"
 excerpt: "Projects of the Humane Tech Community"
 last_modified_at: 2019-04-26T13+02:00
