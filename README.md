@@ -9,7 +9,7 @@ This is the project from where the community website is developed and maintained
 Check out the [Open Source Guide](https://opensource.guide/) for general information about contributing to open source.
 
 ### Contributing Code
-If you'd like to help build the website itself, [click here](contributing-code) to read about how to get started.
+If you'd like to help build the website itself, [click here](contributing-code.md) to read about how to get started.
 
 ### Contributing Content
-If you'd like to write a blog post, share research and other resources, or contribute other content to the site, [click here](contributing-content) to find out how.
+If you'd like to write a blog post, share research and other resources, or contribute other content to the site, [click here](contributing-content.md) to find out how.
