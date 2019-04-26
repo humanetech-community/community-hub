@@ -109,7 +109,7 @@ author:
   email            :
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/company/humanetech-community/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
