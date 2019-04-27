@@ -24,6 +24,7 @@ Every Humane Tech Community member can suggest new Campaigns by posting in the [
 | :--- | :---: | :---: | :--- |
 | [**Aware Prepare**](/awareness-program/campaigns/aware-prepare/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/2839) | Growth hacking the community and Awareness Program. |
 | [**Eventful**](/awareness-program/campaigns/eventful/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3024) | Foster a vibrant meetup culture, organize exciting events. |
+| [**Wiki Reach**](/awareness-program/campaigns/wiki-reach/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3114) | Let's spread our Humane Tech message on Wikipedia. |
 | [**Goodies**](/awareness-program/campaigns/goodies/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3222) | Promotional materials for the Humane Tech Community. |
 
 ## Ideation
