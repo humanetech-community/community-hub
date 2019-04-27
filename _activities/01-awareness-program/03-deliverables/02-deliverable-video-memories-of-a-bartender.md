@@ -37,6 +37,7 @@ The deliverable type is , in this case, 'Video'. For other deliverables this can
 - Original idea: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
 - Coordinator: TBD
 - General discussion: [This forum topic](https://community.humanetech.com/t/3152)
+- Github: [original proposal](https://github.com/humanetech-community/awareness-program/issues/11)
 
 ## Summary
 
