@@ -28,6 +28,7 @@ custom_pagination:
 
 - Name: **Speak Easy**
 - General discussion: [This forum topic](https://community.humanetech.com/t/2786)
+- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/themes/speak-easy), [original proposal](https://github.com/humanetech-community/awareness-program/issues/19)
 
 ## Summary 
 

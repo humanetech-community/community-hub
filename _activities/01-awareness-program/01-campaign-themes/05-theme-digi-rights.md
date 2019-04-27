@@ -28,6 +28,7 @@ custom_pagination:
 
 - Name: **Digi Rights**
 - General discussion: [this forum topic](https://community.humanetech.com/t/492)
+- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/themes/digi-rights), [original proposal](https://github.com/humanetech-community/awareness-program/issues/64)
 
 ## Summary 
 

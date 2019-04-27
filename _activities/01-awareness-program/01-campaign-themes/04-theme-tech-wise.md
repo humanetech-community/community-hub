@@ -28,6 +28,7 @@ custom_pagination:
 
 - Name: Promoting prudent technology use in child education
 - General discussion: [This forum topic](https://community.humanetech.com/t/2823)
+- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/themes/tech-wise), [original proposal](https://github.com/humanetech-community/awareness-program/issues/41)
 
 ## Summary 
 
