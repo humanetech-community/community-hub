@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/blog/be-a-builder/humane-tech-community-overview.png
 last_modified_at: 2019-04-18T07+02:00
 comments: true
-discourse_topic_id: 3389
+discourse_topic_id: 3954
 
 # See: https://github.com/humanetech-community/community-hub/issues/48
 # 
