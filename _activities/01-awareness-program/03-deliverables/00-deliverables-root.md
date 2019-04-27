@@ -16,6 +16,9 @@ Campaign deliverables are the outputs of the various Campaigns that are run by t
 
 ## Current deliverables
 
-| Deliverable | Type | Campaign | Description |
-| :--- | :--- | :--- | :--- |
-| [I'm here now](/awareness-program/deliverables/i-am-here-now/) | T-Shirt | [Goodies](/awareness-program/campaigns/goodies/) | T-shirt design that makes people aware how they are absorbed in their smartphone. |
+| Deliverable | Type | Status | Campaign | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| [I'm here now](/awareness-program/deliverables/i-am-here-now/) | T-Shirt | Idea | [Goodies](/awareness-program/campaigns/goodies/) | T-shirt design that makes people aware how they are absorbed in their smartphone. |
+| [Memories of a Bartender](/awareness-program/deliverables/memories-of-a-bartender/) | Video | Idea | [Reality Shock](/awareness-program/campaigns/reality-shock/) | Short video about the evolution of social relations in a shared space (a bar). |
+| [Caffeine Injection](/awareness-program/deliverables/caffeine-injection/) | Video | Idea | [Reality Shock](/awareness-program/campaigns/reality-shock/) | Short video depicting the rapid and drastic growth in smartphone addiction. |
+| [Dirty Laundry](/awareness-program/deliverables/caffeine-injection/) | Video | Idea | [Reality Shock](/awareness-program/campaigns/reality-shock/) | Short video showing someone experiencing the violent aftermath of a severe data breach. |
