@@ -1,5 +1,5 @@
 ---
-permalink: /awareness-program/deliverables/caffeine injection/
+permalink: /awareness-program/deliverables/caffeine-injection/
 title: "&quot;Caffeine Injection&quot; deliverable"
 excerpt: "Short video depicting the rapid and drastic growth in smartphone addiction."
 last_modified_at: 2019-04-26T13+02:00
