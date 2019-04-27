@@ -31,7 +31,7 @@ The deliverable type is , in this case, 'Video'. For other deliverables this can
 
 - Name: **I'm Here Now**
 - Type: **T-Shirt**
-- Campaign: [Goodies](https://github.com/humanetech-community/humanetech-community-awareness/tree/master/campaigns/goodies)
+- Campaign: [Goodies](/awareness-campaigns/campaigns/goodies/)
 - Status: Preparing
 - Affiliation: Official
 - Original idea: [@micheleminno](https://community.humanetech.com/u/micheleminno/summary)
