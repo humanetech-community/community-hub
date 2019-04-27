@@ -1,8 +1,16 @@
 {% if site.comments.discourse.server %}
 {% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url | absolute_url }}{% else %}{{ page.url | absolute_url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
-<script type="text/javascript">
-    DiscourseEmbed = { discourseUrl: '//{{ site.comments.discourse.server }}/',
-                       discourseEmbedUrl: '{{ canonical }}' };
+
+{% if page.discourse_topic_id %}
+  {% capture topicIndicator %}{ discourseUrl: '//{{ site.comments.discourse.server }}/', topicId: {{ page.discourse_topic_id }} };{% endcapture %}
+{% else %}
+  {% capture topicIndicator %}{ discourseUrl: '//{{ site.comments.discourse.server }}/', discourseEmbedUrl: '{{ canonical }}' };{% endcapture %}
+{% endif %}
+
+{% assign scriptType = 'text/javascript' %}
+
+<script type="{{ scriptType }}">
+    DiscourseEmbed = {{ topicIndicator }}
    (function () {
      var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
      d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
