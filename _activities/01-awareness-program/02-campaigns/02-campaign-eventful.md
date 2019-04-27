@@ -39,6 +39,7 @@ custom_pagination:
 - Original idea: [@aschrijver](https://community.humanetech.com/u/aschrijver)
 - Coordinator: [@aschrijver](https://community.humanetech.com/u/aschrijver)
 - General discussion: [This forum topic](https://community.humanetech.com/t/3024)
+- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/eventful), [original proposal](https://github.com/humanetech-community/awareness-program/issues/62)
 
 ## Summary 
 

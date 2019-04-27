@@ -33,6 +33,7 @@ custom_pagination:
 - Original idea: [aschrijver](https://community.humanetech.com/u/aschrijver/summary) 
 - Coordinator: TBD
 - General discussion: [This forum topic](https://community.humanetech.com/t/2845)
+- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/computer-says-no), [original proposal](https://github.com/humanetech-community/awareness-program/issues/28)
 
 ## Summary 
 

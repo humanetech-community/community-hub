@@ -33,6 +33,7 @@ custom_pagination:
 - Original idea: N/A
 - Coordinator: TBD
 - General discussion: [This forum topic](https://community.humanetech.com/t/2824)
+- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/reality-shock), [original proposal](https://github.com/humanetech-community/awareness-program/issues/7)
 
 ## Summary 
 

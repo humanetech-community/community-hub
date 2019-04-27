@@ -39,6 +39,7 @@ custom_pagination:
 - Original idea: [@aschrijver](https://community.humanetech.com/u/aschrijver/summary)
 - Coordinator: TBD
 - General discussion: [this forum topic](https://community.humanetech.com/t/3114)
+- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/wiki-reach), [original proposal](https://github.com/humanetech-community/awareness-program/issues/63)
 
 ## Summary 
 

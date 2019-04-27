@@ -39,6 +39,7 @@ custom_pagination:
 - Original idea: [@aschrijver](https://community.humanetech.com/u/aschrijver)
 - Coordinator: TBD
 - General discussion: [This forum topic](https://community.humanetech.com/t/3222)
+- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/goodies), [original proposal](https://github.com/humanetech-community/awareness-program/issues/65)
 
 ## Summary 
 

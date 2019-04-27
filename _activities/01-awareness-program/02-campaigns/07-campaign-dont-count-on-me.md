@@ -39,6 +39,7 @@ custom_pagination:
 - Original idea: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
 - Coordinator: TBD
 - General discussion: [This forum topic](https://community.humanetech.com/t/1466)
+- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/dont-count-on-me), [original proposal](https://github.com/humanetech-community/awareness-program/issues/60)
 
 ## Summary 
 
