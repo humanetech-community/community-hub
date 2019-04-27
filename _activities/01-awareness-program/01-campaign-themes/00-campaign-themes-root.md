@@ -21,6 +21,11 @@ Every Humane Tech Community member can suggest new Themes by posting in the [Awa
 | Theme | Discussion | Description |
 | :--- | :---: | :--- |
 | [**Dogfooding**](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/2825) | Using campaigns to strengthen our projects and community. |
+
+## Planned themes
+
+| Theme | Discussion | Description |
+| :--- | :---: | :--- |
 | [**Mankind 2.0**](/awareness-program/campaign-themes/mankind-2.0/) |[forum](https://community.humanetech.com/t/2785) | Raising awareness of the impact of technology on our society. |
 | [**Speak Easy**](/awareness-program/campaign-themes/speak-easy/) | [forum](https://community.humanetech.com/t/2786) | Introducing language to change habits and culture. |
 | [**Tech Wise**](/awareness-program/campaign-themes/tech-wise/) | [forum](https://community.humanetech.com/t/2772) | Promoting prudent technology use in child education. |
