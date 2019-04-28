@@ -71,4 +71,6 @@ Some external contributions from:
 
 - All **complaints** will be **reviewed and investigated** and will result in a response that is deemed necessary and appropriate to the circumstances.
 
+- If you have **problems with a member of the Community Team**, you can send a private message to any other member in the Community Team and ask for advice, or flag the message that caused your concern
+
 - **Community Team members** who do not follow or enforce the Code of Conduct in good faith **may face temporary or permanent repercussions** as determined by other members of the Community Team.
