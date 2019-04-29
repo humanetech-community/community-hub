@@ -63,6 +63,8 @@ under_construction:
 
 {% include feature_row id="feature_humanetech" type="left" %}
 
+{% include feature_row id="feature_socialshare" type="center" %}
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
@@ -72,7 +74,5 @@ under_construction:
 {% include paginator.html %}
 
 {% include feature_row id="feature_quote2" type="center" %}
-
-{% include feature_row id="feature_socialshare" type="center" %}
 
 {% include feature_row id="under_construction" type="center" %}
