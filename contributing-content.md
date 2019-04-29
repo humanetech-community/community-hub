@@ -39,13 +39,16 @@ A blog post (and any other page) can have an optional Comments thread attached t
 - Indicate in the forum topic where you discuss your contribution that you would like to have a Comments section.
 
   - Enabling comments is done by adding `comments: true` to the frontmatter metadata of the page.
-  - Optionally an existing forum thread can be shown as the Comments thread, by also adding `discourse_topic_id: [topicId]` to the frontmatter.
 
-After the page is published a Discourse forum topic will automatically be created on the HTC [discussion forum](https://community.humanetech.com), in the _'Uncategorized'_ category. You can ask a moderator to move it to another, more suitable, category (this does not break the link to the page).
+- Prepare a new forum topic for the Comments thread with an excerpt or the full text of the page.
 
-> **Note 1**: Comments on a blog post are always allowed, but for other pages a member of the Community Team should review and approve.
+- When this topic is created, use the topic ID (the number part in the URL) and add it as `discourse_topic_id: [topicId]` in the frontmatter.
 
-> **Note 2**: There is a bug in the Discourse integration code. When using `discourse_topic_id` the first post in the topic is not shown on the website. See [this comment](https://github.com/humanetech-community/community-hub/issues/46#issuecomment-487286701) for info.
+> **Note 1**: Comments on a Blog post are always allowed, but for other pages a member of the Community Team should review and approve.
+
+> **Note 2**: By using `discourse_topic_id` the first post in the topic is not shown on the website. This is by design (See [this comment on meta.discourse.org](https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963/299) for info). By using an existing topic and `discourse_topic_id` there is full control over the topic title and category.
+>
+> But it is also possible to forego the manual topic preparation and setting `discourse_topic_id`, but in this case the topic is auto-created in the _Uncategorized_ category with a default title of _"[Page title] - Humane Tech Community"_ and must be moved and renamed after the fact. So using `discourse_topic_id` is preferred.
 
 ### Previous / Next navigation
 
