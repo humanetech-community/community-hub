@@ -31,3 +31,18 @@ When you encounter pages on the Community Hub that you would like to contribute 
 Once you find content you'd like to contribute, create a new topic in the most relevant category on the [forum](https://community.humanetech.com/) to share it, and we will help transfer it to the site. If you're unsure which category it belongs in, create it in [feedback](https://community.humanetech.com/c/central/feedback).
 
 To the forum topic you should add the `community-hub' tag for findability, and provide a link to the related Github issue.
+
+### Enabling comments
+
+A blog post (and any other page) can have an optional Comments thread attached to it. The comments appear directly below the content on the same page.
+
+- Indicate in the forum topic where you discuss your contribution that you would like to have a Comments section.
+
+  - Enabling comments is done by adding `comments: true` to the frontmatter metadata of the page.
+  - Optionally an existing forum thread can be shown as the Comments thread, by also adding `discourse_topic_id: [topicId]` to the frontmatter.
+
+After the page is published a Discourse forum topic will automatically be created on the HTC [discussion forum](https://community.humanetech.com), in the _'Uncategorized'_ category. You can ask a moderator to move it to another, more suitable, category (this does not break the link to the page).
+
+> **Note 1**: Comments on a blog post are always allowed, but for other pages a member of the Community Team should review and approve.
+
+> **Note 2**: There is a bug in the Discourse integration code. When using `discourse_topic_id` the first post in the topic is not shown on the website. See [this comment](https://github.com/humanetech-community/community-hub/issues/46#issuecomment-487286701) for info.
