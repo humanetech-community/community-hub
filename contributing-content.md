@@ -8,9 +8,7 @@ The website uses the same Markdown syntax that the forum uses. You can write you
 
 1) Use as title “Blog post: [Your proposed blog title]”.
 
-1) Write a short summary of the subject and other things you want to address in the blog post.
-
-1) Submit your post. It will appear publicly after a Moderator has approved (which we will do).
+1) Write a short summary of the subject and other things you want to address in the blog post. Then submit your post.
 
 1) Optionally some discussion ensues on the topic with tips and feedback to refine the article
 
@@ -18,7 +16,8 @@ The website uses the same Markdown syntax that the forum uses. You can write you
     - Feel free to use any of the formatting and Markdown syntax available on the forum. Use this [Markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to see other markdown syntax you can use for formatting.
     - Include as many images as you like (but note licensing issues, and where you got them from)
 
-1) When you're finished, we will help you to transfer the text to the website! 
+1) When you're finished, we will help you to transfer the text to the website!
+    - If you want to be attributed we need to add your contact details to [authors.yml](https://github.com/humanetech-community/community-hub/blob/master/_data/authors.yml), including your photo 290x310 pixel or similar aspect ratio.
 
 All your work is attributed to you and has your name to it (unless you want to stay anonymous, of course). You are the copyright owner (the license is [CC-BY](https://creativecommons.org/licenses/by/4.0/)).
 
