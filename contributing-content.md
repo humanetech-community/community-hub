@@ -46,3 +46,26 @@ After the page is published a Discourse forum topic will automatically be create
 > **Note 1**: Comments on a blog post are always allowed, but for other pages a member of the Community Team should review and approve.
 
 > **Note 2**: There is a bug in the Discourse integration code. When using `discourse_topic_id` the first post in the topic is not shown on the website. See [this comment](https://github.com/humanetech-community/community-hub/issues/46#issuecomment-487286701) for info.
+
+### Previous / Next navigation
+
+The website uses a pagination scheme (see [post_pagination.html](https://github.com/humanetech-community/community-hub/blob/master/_includes/post_pagination.html)) that drives the 'Previous' and 'Next' buttons at the bottom of the page.
+
+When adding new pages to the Community Hub this pagination needs to be tested to see if there is still a logical ordering of the page. If this is not the case, then the automatic pagination must be overridden by adding `custom_pagination` to the frontmatter metadata and specify either the `prev` or `next` page (or both) manually.
+
+Example:
+
+```yaml
+permalink: /about/
+title: "About"
+excerpt: "About the Humane Tech Community"
+author_profile: false
+last_modified_at: 2019-04-20T12+02:00
+sidebar:
+  nav: "about"
+custom_pagination:
+  prev: /resources/
+---
+```
+
+(See [Issue #28](https://github.com/humanetech-community/community-hub/issues/28) and [Pull Request #62](https://github.com/humanetech-community/community-hub/pull/62) for background information.)
