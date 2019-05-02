@@ -10,16 +10,16 @@ The website uses the same Markdown syntax that the forum uses. You can write you
 
 1) Write a short summary of the subject and other things you want to address in the blog post. Then submit your post.
 
-1) Optionally some discussion ensues on the topic with tips and feedback to refine the article
+1) Optionally some discussion ensues on the topic with tips and feedback to refine the article.
 
 1) When ready, write the full blog post!
     - Feel free to use any of the formatting and Markdown syntax available on the forum. Use this [Markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to see other markdown syntax you can use for formatting.
-    - Include as many images as you like (but note licensing issues, and where you got them from)
+    - Include as many images as you like (NB: licensing issues, and where you got them from).
 
 1) When you're finished, we will help you to transfer the text to the website!
-    - If you want to be attributed we need to add your contact details to [authors.yml](https://github.com/humanetech-community/community-hub/blob/master/_data/authors.yml), including your photo 290x310 pixel or similar aspect ratio.
+    - If you want to be attributed, we need to add your contact details to [authors.yml](https://github.com/humanetech-community/community-hub/blob/master/_data/authors.yml), including your photo 290px by 310px or similar aspect ratio.
 
-All your work is attributed to you and has your name to it (unless you want to stay anonymous, of course). You are the copyright owner (the license is [CC-BY](https://creativecommons.org/licenses/by/4.0/)).
+All your work is attributed to you and has your name attached to it (unless you want to stay anonymous, of course). You are the copyright owner (the license is [CC-BY](https://creativecommons.org/licenses/by/4.0/)).
 
 
 ### Other content
@@ -30,11 +30,11 @@ When you encounter pages on the Community Hub that you would like to contribute 
 
 Once you find content you'd like to contribute, create a new topic in the most relevant category on the [forum](https://community.humanetech.com/) to share it, and we will help transfer it to the site. If you're unsure which category it belongs in, create it in [feedback](https://community.humanetech.com/c/central/feedback).
 
-To the forum topic you should add the `community-hub' tag for findability, and provide a link to the related Github issue.
+To the forum topic you should add the `community-hub` tag for findability, and provide a link to the related Github issue.
 
 ### Enabling comments
 
-A blog post (and any other page) can have an optional Comments thread attached to it. The comments appear directly below the content on the same page.
+A blog post (and any other page) may have a Comments thread attached to it. The comments appear directly below the content on the same page.
 
 - Indicate in the forum topic where you discuss your contribution that you would like to have a Comments section.
 
@@ -44,11 +44,11 @@ A blog post (and any other page) can have an optional Comments thread attached t
 
 - When this topic is created, use the topic ID (the number part in the URL) and add it as `discourse_topic_id: [topicId]` in the frontmatter.
 
-> **Note 1**: Comments on a Blog post are always allowed, but for other pages a member of the Community Team should review and approve.
+> **Note 1**: Comments on a blog post are always allowed, but for other pages a member of the Community Team should review and approve.
 
-> **Note 2**: By using `discourse_topic_id` the first post in the topic is not shown on the website. This is by design (See [this comment on meta.discourse.org](https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963/299) for info). By using an existing topic and `discourse_topic_id` there is full control over the topic title and category.
+> **Note 2**: By using `discourse_topic_id` the first post in the topic is not shown on the website. This is by design (see [this comment on meta.discourse.org](https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963/299) for info). By using an existing topic and `discourse_topic_id` there is full control over the topic title and category.
 >
-> But it is also possible to forego the manual topic preparation and setting `discourse_topic_id`, but in this case the topic is auto-created in the _Uncategorized_ category with a default title of _"[Page title] - Humane Tech Community"_ and must be moved and renamed after the fact. So using `discourse_topic_id` is preferred.
+> But it is also possible to forego the manual topic preparation and setting `discourse_topic_id`; in this case, the topic is auto-created in the _Uncategorized_ category with a default title of _"[Page title] - Humane Tech Community"_ and must be moved and renamed after the fact. So using `discourse_topic_id` is preferred.
 
 ### Previous / Next navigation
 
