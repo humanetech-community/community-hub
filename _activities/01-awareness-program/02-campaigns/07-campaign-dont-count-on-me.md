@@ -21,10 +21,10 @@ custom_pagination:
           should be copied to the Campaign README.md after your feedback is incorporated.
 -->
 
-## Info 
+## Info
 
 <!-- Provide short name that reflects the gist of the campaign, used as working title.
-      Also add the link to community forum topic that is used for general discussion. 
+      Also add the link to community forum topic that is used for general discussion.
 
       Valid values for 'Status' are: Ideation, Preparing, Launched, Finished
       Valid values for 'Affiliation' are: Official, Unofficial
@@ -41,7 +41,7 @@ custom_pagination:
 - General discussion: [This forum topic](https://community.humanetech.com/t/1466)
 - Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/dont-count-on-me), [original proposal](https://github.com/humanetech-community/awareness-program/issues/60)
 
-## Summary 
+## Summary
 
 <!-- Clear and concise explanation in 1-3 lines of text. -->
 
@@ -88,13 +88,21 @@ No more n. of followers, n. of likes and so on. It’s a simple but powerful cha
 
 <!-- Sub-headers with the planned deliverables and their summaries. Update this later to reflect changes.  The second sub-header gives an example. -->
 
-### [Deliverable type]: [Deliverable name 1](deliverable1-url) 
 
-[Deliverable summary]
 
-### [Deliverable type]: [Deliverable name 2](deliverable2-url)
 
-[Deliverable summary]
+
+### [Picture]: [Infographics](deliverable1-url)
+
+Some infographics about what a social media without counters would be like.
+
+### [Video]: [Video about social media with no counters](deliverable2-url)
+
+A video about what interactions on such a social media would be like.
+
+### [Social media campaign]: [Don't count on me hour (or day)](deliverable3-url)
+
+Plan a boycott (one hour, a whole day?), in which all people adhering don’t like any new post nor follow any new member on their preferred social media, so that they don’t make any counter increase. This could be the only way to really make a little damage to social media companies and perhaps let them notice us…
 
 ## Strategy
 
@@ -111,7 +119,7 @@ No more n. of followers, n. of likes and so on. It’s a simple but powerful cha
 
 <!-- (optional) Financial requirements, required budget, ways to obtain funds (keep it short, couple of paragraphs, some bullets). If necessary link to separate detailed funding document. Use the placeholder text if no funding is required. -->
 
-- No funding is required to execute this campaign. 
+- No funding is required to execute this campaign.
 
 ## Milestones
 
