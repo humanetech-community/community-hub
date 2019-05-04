@@ -68,4 +68,6 @@ custom_pagination:
 ## Alignment
 
 - David Jay - [_Why Some Movements Thrive and Others Don’t_](https://medium.com/s/story/relationship-machines-675305924d5?sk=b277bbdf2843f22d3a81d79bc20e98ca) (_article, nonfiction_).
+
+
 ---
