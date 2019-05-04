@@ -48,14 +48,14 @@ custom_pagination:
 
 - Ray Bradbury - [_Fahrenheit 451_](https://en.wikipedia.org/wiki/Fahrenheit_451) (_book, fiction_).
 
-- François Truffaut - [_Fahrenheit 451_](https://en.wikipedia.org/wiki/Fahrenheit_451_(1966_film) (_movie_)
+- François Truffaut - [_Fahrenheit 451_](https://en.wikipedia.org/wiki/Fahrenheit_451_(1966_film) (_movie, fiction_)
 
 
 - Nathalie Maréchal - [Talk on networked authoritarianism](https://nathaliemarechal.files.wordpress.com/2018/08/2018-07-networked-authoritarianism-hope-talk.pdf) (_slides, nonfiction_)
 
--  Chandler Tuttle - [_2081_](https://en.wikipedia.org/wiki/2081_) (adaptation of the story "Harrison Bergeron" by Kurt Vonnegut) (_movie_)
+-  Chandler Tuttle - [_2081_](https://en.wikipedia.org/wiki/2081_) (adaptation of the story "Harrison Bergeron" by Kurt Vonnegut) (_movie, fiction_)
 
-- George Lucas - [_THX-1138_](https://en.wikipedia.org/wiki/THX_1138) (_movie_)
+- George Lucas - [_THX-1138_](https://en.wikipedia.org/wiki/THX_1138) (_movie, fiction_)
 
 
 ### Privacy
@@ -66,7 +66,7 @@ custom_pagination:
 ([YouTube](https://www.youtube.com/watch?v=CmCGp8TSNro), [Podcast](https://borjas.blog/episodes/privateid-s01e15-podcast-borja-moya.mp3))  (_interview_)
 
   - [COMPUTATIONAL PROPAGANDA: Why Data Extraction Allows MANIPULATION](https://archive.org/details/COMPUTATIONALPROPAGANDAWhyDataExtractionAllowsMANIPULATIONInterviewWithMartaPeir) ([YouTube](https://www.youtube.com/watch?v=0PId2LL5M0c),  [Podcast](https://borjas.blog/episodes/privateid-s01e16-podcast-borja-moya.mp3)) (_interview_)
-  
+
 
 
 ---
