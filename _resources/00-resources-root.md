@@ -29,13 +29,14 @@ custom_pagination:
 
 ### Children & teens
 
-- Jamie Doward and Sam Hall - [Technology cuts children off from adults, warns expert](https://www.theguardian.com/society/2019/apr/27/technology-threatens-child-development-psychology-expert-warns) (_article, nonfiction_).
+- Jamie Doward and Sam Hall - [_Technology cuts children off from adults, warns expert_](https://www.theguardian.com/society/2019/apr/27/technology-threatens-child-development-psychology-expert-warns) (_article, nonfiction_).
+
 ---
 
 ## Society
 
 
-- [Corporate Surveillance in Everyday Life](https://crackedlabs.org/en/corporate-surveillance) - Cracked Labs report, June 2017 (_article, nonfiction_)
+- [_Corporate Surveillance in Everyday Life_](https://crackedlabs.org/en/corporate-surveillance) - Cracked Labs report, June 2017 (_article, nonfiction_)
 
 - Franklin Foer - [_World Without Mind: The Existential Threat of Big Tech_]( https://www.penguinrandomhouse.com/books/533937/world-without-mind-by-franklin-foer/9781101981122) (_book, nonfiction_).
 
@@ -56,7 +57,7 @@ custom_pagination:
 
 - James Williams - [_Stand Out of Our Light: Freedom and Resistance in the Attention Economy_](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D) (_book, nonfinction_)
 
-- Saqib Shah - [China uses facial recognition to monitor ethnic minorities](ttps://www.engadget.com/2018/01/18/china-facial-recognition-uyghurs-xinjiang/) (_article, nonfiction_).
+- Saqib Shah - [_China uses facial recognition to monitor ethnic minorities_](ttps://www.engadget.com/2018/01/18/china-facial-recognition-uyghurs-xinjiang/) (_article, nonfiction_).
 
 
 ### Security
@@ -66,5 +67,5 @@ custom_pagination:
 
 ## Alignment
 
-- David Jay - [Why Some Movements Thrive and Others Don’t](https://medium.com/s/story/relationship-machines-675305924d5?sk=b277bbdf2843f22d3a81d79bc20e98ca) (_article, nonfiction_).
+- David Jay - [_Why Some Movements Thrive and Others Don’t_](https://medium.com/s/story/relationship-machines-675305924d5?sk=b277bbdf2843f22d3a81d79bc20e98ca) (_article, nonfiction_).
 ---
