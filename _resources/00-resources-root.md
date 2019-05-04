@@ -15,9 +15,7 @@ custom_pagination:
 
 ### Social
 
-- [_The Psicology of Social Media_](https://www.routledge.com/The-Psychology-of-Social-Media-1st-Edition/Mc-Mahon/p/book/9781138047754), Ciarán Mc Mahon (academic psychologist).
-<br/>
-[-> Forum topic about that](https://community.humanetech.com/t/new-book-the-psychology-of-social-media/3759). 
+- Ciarán Mc Mahon (academic psychologist) - [_The Psicology of Social Media_](https://www.routledge.com/The-Psychology-of-Social-Media-1st-Edition/Mc-Mahon/p/book/9781138047754) ([Forum topic](https://community.humanetech.com/t/new-book-the-psychology-of-social-media/3759)). 
 
 
 
