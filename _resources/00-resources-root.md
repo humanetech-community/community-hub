@@ -61,7 +61,7 @@ custom_pagination:
 
 
 ### Security
-- Bruce Schneier - [_Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World_](https://www.schneier.com/books/data_and_goliath/) (_book, nonfinction_)
+- Bruce Schneier - [_Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World_](https://www.schneier.com/books/data_and_goliath/) (_book, nonfiction_)
 
 ---
 
