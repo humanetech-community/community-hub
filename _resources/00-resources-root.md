@@ -31,14 +31,14 @@ custom_pagination:
 
 - Jamie Doward and Sam Hall - [_Technology cuts children off from adults, warns expert_](https://www.theguardian.com/society/2019/apr/27/technology-threatens-child-development-psychology-expert-warns) (_article, nonfiction_).
 
-- Centre for Information Rights, University of Winchester - [Have ‘Generation Tagged’ Lost Their Privacy?](https://github.com/humanetech-community/community-hub/files/3125840/826826_Oswald_GenerationTagged_original.pdf) (_report_)
+- Centre for Information Rights, University of Winchester - [Have ‘Generation Tagged’ Lost Their Privacy?](https://github.com/humanetech-community/community-hub/files/3125840/826826_Oswald_GenerationTagged_original.pdf) (_report_).
 
 ---
 
 ## Society
 
 
-- [_Corporate Surveillance in Everyday Life_](https://crackedlabs.org/en/corporate-surveillance) - Cracked Labs report, June 2017 (_article, nonfiction_)
+- [_Corporate Surveillance in Everyday Life_](https://crackedlabs.org/en/corporate-surveillance) - Cracked Labs report, June 2017 (_article, nonfiction_).
 
 - Franklin Foer - [_World Without Mind: The Existential Threat of Big Tech_]( https://www.penguinrandomhouse.com/books/533937/world-without-mind-by-franklin-foer/9781101981122) (_book, nonfiction_).
 
@@ -48,14 +48,14 @@ custom_pagination:
 
 - Ray Bradbury - [_Fahrenheit 451_](https://en.wikipedia.org/wiki/Fahrenheit_451) (_book, fiction_).
 
-- François Truffaut - [_Fahrenheit 451_](https://en.wikipedia.org/wiki/Fahrenheit_451_(1966_film)) (_movie, fiction_)
+- François Truffaut - [_Fahrenheit 451_](https://en.wikipedia.org/wiki/Fahrenheit_451_(1966_film)) (_movie, fiction_).
 
 
-- Nathalie Maréchal - [Talk on networked authoritarianism](https://nathaliemarechal.files.wordpress.com/2018/08/2018-07-networked-authoritarianism-hope-talk.pdf) (_slides, nonfiction_)
+- Nathalie Maréchal - [Talk on networked authoritarianism](https://nathaliemarechal.files.wordpress.com/2018/08/2018-07-networked-authoritarianism-hope-talk.pdf) (_slides, nonfiction_).
 
--  Chandler Tuttle - [_2081_](https://en.wikipedia.org/wiki/2081_(film)) (adaptation of the story "Harrison Bergeron" by Kurt Vonnegut) (_movie, fiction_)
+-  Chandler Tuttle - [_2081_](https://en.wikipedia.org/wiki/2081_(film)) (adaptation of the story "Harrison Bergeron" by Kurt Vonnegut) (_movie, fiction_).
 
-- George Lucas - [_THX-1138_](https://en.wikipedia.org/wiki/THX_1138) (_movie, fiction_)
+- George Lucas - [_THX-1138_](https://en.wikipedia.org/wiki/THX_1138) (_movie, fiction_).
 
 
 ### Privacy
@@ -63,9 +63,9 @@ custom_pagination:
 - Episodes from the [Borja Moya Show](https://www.youtube.com/channel/UC_2o3uWeoQdoBpBdiHJ3O0Q):
 
   - [The Future of DEMOCRACIES Depends on How We Deal with PRIVACY TODAY](https://archive.org/details/20190403TheFutureOfDEMOCRACIESDependsOnHowWeDealWithPRIVACYTODAYInterviewWithEnriqueDansByBorjaMoya)
-([YouTube](https://www.youtube.com/watch?v=CmCGp8TSNro), [Podcast](https://borjas.blog/episodes/privateid-s01e15-podcast-borja-moya.mp3))  (_interview_)
+([YouTube](https://www.youtube.com/watch?v=CmCGp8TSNro), [Podcast](https://borjas.blog/episodes/privateid-s01e15-podcast-borja-moya.mp3))  (_interview_).
 
-  - [COMPUTATIONAL PROPAGANDA: Why Data Extraction Allows MANIPULATION](https://archive.org/details/COMPUTATIONALPROPAGANDAWhyDataExtractionAllowsMANIPULATIONInterviewWithMartaPeir) ([YouTube](https://www.youtube.com/watch?v=0PId2LL5M0c),  [Podcast](https://borjas.blog/episodes/privateid-s01e16-podcast-borja-moya.mp3)) (_interview_)
+  - [COMPUTATIONAL PROPAGANDA: Why Data Extraction Allows MANIPULATION](https://archive.org/details/COMPUTATIONALPROPAGANDAWhyDataExtractionAllowsMANIPULATIONInterviewWithMartaPeir) ([YouTube](https://www.youtube.com/watch?v=0PId2LL5M0c),  [Podcast](https://borjas.blog/episodes/privateid-s01e16-podcast-borja-moya.mp3)) (_interview_).
 
 
 
@@ -75,14 +75,14 @@ custom_pagination:
 
 ## Freedom
 
-- James Williams - [_Stand Out of Our Light: Freedom and Resistance in the Attention Economy_](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D) (_book, nonfiction_)
+- James Williams - [_Stand Out of Our Light: Freedom and Resistance in the Attention Economy_](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D) (_book, nonfiction_).
 
 - Saqib Shah - [_China uses facial recognition to monitor ethnic minorities_](ttps://www.engadget.com/2018/01/18/china-facial-recognition-uyghurs-xinjiang/) (_article, nonfiction_).
 
-- Mozilla Foundation - [_Internet Health Report 2019_](https://internethealthreport.org/2019/) (_report_)
+- Mozilla Foundation - [_Internet Health Report 2019_](https://internethealthreport.org/2019/) (_report_).
 
 ### Security
-- Bruce Schneier - [_Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World_](https://www.schneier.com/books/data_and_goliath/) (_book, nonfiction_)
+- Bruce Schneier - [_Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World_](https://www.schneier.com/books/data_and_goliath/) (_book, nonfiction_).
 
 ---
 
@@ -90,7 +90,7 @@ custom_pagination:
 
 - David Jay - [_Why Some Movements Thrive and Others Don’t_](https://medium.com/s/story/relationship-machines-675305924d5?sk=b277bbdf2843f22d3a81d79bc20e98ca) (_article, nonfiction_).
 
-- Jeremy Rifkin - [_The Third Industrial Revolution_](https://impact.vice.com/en_us/article/bj5zaq/watch-vices-new-documentary-the-third-industrial-revolution-a-radical-new-sharing-economy) (_talk_)
+- Jeremy Rifkin - [_The Third Industrial Revolution_](https://impact.vice.com/en_us/article/bj5zaq/watch-vices-new-documentary-the-third-industrial-revolution-a-radical-new-sharing-economy) (_talk_).
 
 
 ---
