@@ -3,7 +3,7 @@ permalink: /resources/
 title: "Resources"
 excerpt: "Resources of the Humane Tech Community"
 author_profile: false
-last_modified_at: 2019-04-20T12+02:00
+last_modified_at: 2019-05-05T12+02:00
 sidebar:
   nav: "topleveldocs"
 custom_pagination:
@@ -44,16 +44,16 @@ custom_pagination:
 
 - Shoshana Zuboff - [_The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power_](https://shoshanazuboff.com/) (_book, nonfiction_).
 
-- George Orwell - [_1984_](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four (_book, fiction_) (_book, fiction_).
+- George Orwell - [_1984_](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) (_book, fiction_).
 
 - Ray Bradbury - [_Fahrenheit 451_](https://en.wikipedia.org/wiki/Fahrenheit_451) (_book, fiction_).
 
-- François Truffaut - [_Fahrenheit 451_](https://en.wikipedia.org/wiki/Fahrenheit_451_(1966_film) (_movie, fiction_)
+- François Truffaut - [_Fahrenheit 451_](https://en.wikipedia.org/wiki/Fahrenheit_451_(1966_film)) (_movie, fiction_)
 
 
 - Nathalie Maréchal - [Talk on networked authoritarianism](https://nathaliemarechal.files.wordpress.com/2018/08/2018-07-networked-authoritarianism-hope-talk.pdf) (_slides, nonfiction_)
 
--  Chandler Tuttle - [_2081_](https://en.wikipedia.org/wiki/2081_) (adaptation of the story "Harrison Bergeron" by Kurt Vonnegut) (_movie, fiction_)
+-  Chandler Tuttle - [_2081_](https://en.wikipedia.org/wiki/2081_(film)) (adaptation of the story "Harrison Bergeron" by Kurt Vonnegut) (_movie, fiction_)
 
 - George Lucas - [_THX-1138_](https://en.wikipedia.org/wiki/THX_1138) (_movie, fiction_)
 
@@ -90,7 +90,7 @@ custom_pagination:
 
 - David Jay - [_Why Some Movements Thrive and Others Don’t_](https://medium.com/s/story/relationship-machines-675305924d5?sk=b277bbdf2843f22d3a81d79bc20e98ca) (_article, nonfiction_).
 
-- Jeremy Rifkin - [_The Third Industrial Revolution_] (https://impact.vice.com/en_us/article/bj5zaq/watch-vices-new-documentary-the-third-industrial-revolution-a-radical-new-sharing-economy) (_talk_)
+- Jeremy Rifkin - [_The Third Industrial Revolution_](https://impact.vice.com/en_us/article/bj5zaq/watch-vices-new-documentary-the-third-industrial-revolution-a-radical-new-sharing-economy) (_talk_)
 
 
 ---
