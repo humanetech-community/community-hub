@@ -35,6 +35,6 @@ The following meetup chapters are not related to the Humane Tech Community, but 
 | :--- | :--- | :--- |
 | Berlin | [@quanders](https://community.humanetech.com/u/quanders/summary) | [**Meetup.com**](https://www.meetup.com/Ethical-Technology/), Ethical Tech & Humane Design, [forum discussion](https://community.humanetech.com/t/germany-chapter-meetups/594) |
 | Hamburg | [@quanders](https://community.humanetech.com/u/quanders/summary) | [**Meetup.com**](https://www.meetup.com/Humane-Technology-Hamburg/), Ethical Tech & Humane Design, [forum discussion](https://community.humanetech.com/t/germany-chapter-meetups/594/6) | 
-| Los Angeles | [@datadave](https://community.humanetech.com/u/datadave/summary) | [**Meetup.com**](https://www.meetup.com/our-lives-our-data-la/), Our lives, our data, shown interest to join CHT, [forum discussion](https://community.humanetech.com/t/los-angeles-chapter-meetings/268/2) |
+| Los Angeles | [@datadave](https://community.humanetech.com/u/datadave/summary) | [**Meetup.com**](https://www.meetup.com/our-lives-our-data-la/), Our lives, Our Data, [forum discussion](https://community.humanetech.com/t/los-angeles-chapter-meetings/268/2) |
 | New York City | - | [**Meetup.com**](https://www.meetup.com/Human-Tech-Meetup/) |
 | San Diego | [@zack](https://community.humanetech.com/u/zack/summary) | [**Meetup.com**](https://www.meetup.com/San-Diego-CONSCIOUSNESS-HACKING-Meetup/), Consciousness hacking, [forum discussion](https://community.humanetech.com/t/san-diego-meetup-for-humane-technologists/2228) |  
