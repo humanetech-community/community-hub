@@ -15,6 +15,7 @@ custom_pagination:
 | :--- | :--- | :--- |
 | Amsterdam | [@martijn.catz](https://community.humanetech.com/u/martijn.catz/summary) |  [**Meetup.com**](https://www.meetup.com/HumaneTech-AMS/), [forum discussion](https://community.humanetech.com/t/amsterdam-chapter-meetups/1100) |
 | Baltimore, DC Metro | [@Jbjusten](https://community.humanetech.com/u/Jbjusten/summary), [@AaronChang](https://community.humanetech.com/u/AaronChang/summary) | [**Meetup.com**](https://www.meetup.com/Montgomery-County-Humane-Technology-Meetup/), [forum discussion](https://community.humanetech.com/t/baltimore-dc-metro-meetups/522/13) |
+| Brno, Czech Republic | [@Bozon](https://community.humanetech.com/u/bozon/summary) | [**Meetup.com**](https://www.meetup.com/Humane-Tech-Brno/) |
 | Köln | [@Kamil](https://community.humanetech.com/u/Kamil/summary) | [**Meetup.com**](https://www.meetup.com/Humane-Tech-Rheinland/), [forum discussion](https://community.humanetech.com/t/rhineland-germany-cologne-dusseldorf-bonn-aachen-chapter/1067) | 
 | Köln | [@Janmar](https://community.humanetech.com/u/Janmar/summary) | [**Meetup.com**](https://www.meetup.com/humane-tech-nrw/) |
 | Lisbon | [@vanessa](https://community.humanetech.com/u/vanessa/summary) | [**Meetup.com**](https://www.meetup.com/Humane-Tech-Lisbon/), [forum discussion](https://community.humanetech.com/t/lisbon-chapter-meetups/1085) | 
