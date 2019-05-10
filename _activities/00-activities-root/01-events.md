@@ -2,7 +2,7 @@
 permalink: /activities/events/
 title: "Events"
 excerpt: "Upcoming and past events of the Humane Tech Community"
-last_modified_at: 2019-04-27T9+02:00
+last_modified_at: 2019-05-10T9+02:00
 sidebar:
   nav: "activities"
 custom_pagination:
@@ -14,6 +14,7 @@ custom_pagination:
 | Date | Event |
 | :--- | :--- |
 | April 30, 2019 | [Mozilla Open Leaders Graduation](#2019-04-30-mozilla-open-leaders-graduation) |
+| May 25, 2019 | [Humane Tech Community Mozilla Sprint event](#2019-05-25-humane-tech-community-mozilla-sprint-event) |
 | May 28, 2019 | [Humane Tech London Meetup #3](#2019-05-28-humane-tech-london-meetup-3) |
 
 ### 2019-04-30: Mozilla Open Leaders Graduation
@@ -24,6 +25,16 @@ For the past months the Humane Tech Community has participated in the Mozilla Op
 **When**: Tue Apr 30, 2019 11:55am – 1pm Eastern Time - Toronto<br>
 **More info**: [Meet our Open Leaders 7 Grads](https://medium.com/p/9f6e0c24db1d)
 {: .notice--info}
+
+
+### 2019-05-25: Humane Tech Community Mozilla Sprint Event
+
+Join HTC via video chat to ask questions about what we do and what we think about humane technology hot topics.
+
+**Where**: On [Zoom](https://zoom.us/) <br>
+**When**: Sat May 25, 2019 11:00am – 1pm Eastern Time - Toronto<br>
+**More info**: https://www.mozillapulse.org/entry/1166
+
 
 ### 2019-05-28: Humane Tech London Meetup #3
 
