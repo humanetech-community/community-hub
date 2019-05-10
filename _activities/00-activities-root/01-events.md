@@ -33,8 +33,8 @@ Join HTC via video chat to ask questions about what we do and what we think abou
 
 **Where**: On [Zoom](https://zoom.us/) <br>
 **When**: Sat May 25, 2019 11:00am – 1pm Pacific Standard Time<br>
-**More info**: [Event on Mozilla pulse](https://www.mozillapulse.org/entry/1166)
-
+**More info**: [Event description on Mozilla pulse](https://www.mozillapulse.org/entry/1166)
+{: .notice--info}
 
 ### 2019-05-28: Humane Tech London Meetup #3
 
