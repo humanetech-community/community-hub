@@ -32,7 +32,7 @@ For the past months the Humane Tech Community has participated in the Mozilla Op
 Join HTC via video chat to ask questions about what we do and what we think about humane technology hot topics.
 
 **Where**: On [Zoom](https://zoom.us/) <br>
-**When**: Sat May 25, 2019 11:00am – 1pm Eastern Time - Toronto<br>
+**When**: Sat May 25, 2019 11:00am – 1pm Pacific Standard Time<br>
 **More info**: https://www.mozillapulse.org/entry/1166
 
 
