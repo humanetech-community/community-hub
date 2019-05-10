@@ -3,7 +3,7 @@ permalink: /resources/
 title: "Resources"
 excerpt: "Resources of the Humane Tech Community"
 author_profile: false
-last_modified_at: 2019-05-05T12+02:00
+last_modified_at: 2019-05-10T12+02:00
 sidebar:
   nav: "topleveldocs"
 custom_pagination:
@@ -57,6 +57,8 @@ custom_pagination:
 
 - George Lucas - [_THX-1138_](https://en.wikipedia.org/wiki/THX_1138) (_movie, fiction_).
 
+- Carole Cadwalladr - [Facebook's role in Brexit - and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy) (_TED, talk_).
+
 
 ### Privacy
 
@@ -82,6 +84,7 @@ custom_pagination:
 - Mozilla Foundation - [_Internet Health Report 2019_](https://internethealthreport.org/2019/) (_report_).
 
 ### Security
+
 - Bruce Schneier - [_Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World_](https://www.schneier.com/books/data_and_goliath/) (_book, nonfiction_).
 
 ---
