@@ -35,5 +35,4 @@ Every Humane Tech Community member can suggest new Themes by posting in the [Awa
 
 | Theme | Discussion | Description |
 | :--- | :---: | :--- |
-| **Resocialized Media** | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/61), [forum](https://community.humanetech.com/t/3009) | Re-engineer the social values, beliefs and norms of Social Media. |
-
+| [**Resocialized Media**](/awareness-program/campaign-themes/resocialized-media/) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/61), [forum](https://community.humanetech.com/t/3009) | Re-engineer the social values, beliefs and norms of Social Media. |

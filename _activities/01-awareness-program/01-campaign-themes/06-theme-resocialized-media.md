@@ -1,7 +1,7 @@
 ---
 permalink: /awareness-program/campaign-themes/resocialized-media/
 title: "&quot;Resocialized Media&quot; campaign theme"
-excerpt: "Spreading awareness about the harms of current social media and promoting new humane prototypes, allowing the flourishing of human relations and balanced human identities."
+excerpt: "Re-engineer the social values, beliefs and norms of Social Media."
 last_modified_at: 2019-04-26T13+02:00
 sidebar:
   nav: "activities"
@@ -26,9 +26,9 @@ custom_pagination:
 <!-- Provide short name that reflects the gist of the theme, used as working title.
       Also add the link to community forum topic that is used for general discussion. -->
 
-- Name: Spreading awareness about the harms of current social media and promoting new humane prototypes, allowing the flourishing of human relations and balanced human identities.
+- Name: Re-engineer the social values, beliefs and norms of Social Media.
 - General discussion: Forum Topic TODO
-- Github: TODO
+- Github: [original proposal](https://github.com/humanetech-community/awareness-program/issues/61)
 
 ## Summary
 

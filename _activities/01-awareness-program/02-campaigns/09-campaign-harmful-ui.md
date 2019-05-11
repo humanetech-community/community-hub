@@ -33,7 +33,7 @@ custom_pagination:
 -->
 
 - Name: **Harmful UI**
-- Theme: [Resocialized media (proposed)](https://github.com/humanetech-community/humanetech-community-awareness/issues/61)
+- Theme: [Resocialized media](https://github.com/humanetech-community/humanetech-community-awareness/issues/61)
 - Status: Ideation
 - Affiliation: Unofficial
 - Original idea: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
