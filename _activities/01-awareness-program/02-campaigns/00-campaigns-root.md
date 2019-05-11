@@ -26,6 +26,8 @@ Every Humane Tech Community member can suggest new Campaigns by posting in the [
 | [**Eventful**](/awareness-program/campaigns/eventful/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3024) | Foster a vibrant meetup culture, organize exciting events. |
 | [**Wiki Reach**](/awareness-program/campaigns/wiki-reach/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3114) | Let's spread our Humane Tech message on Wikipedia. |
 | [**Goodies**](/awareness-program/campaigns/goodies/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3222) | Promotional materials for the Humane Tech Community. |
+| [**Harmful UI**](/awareness-program/campaigns/harmful-ui/) | Resocialized Media (proposal)) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/67), [forum](https://community.humanetech.com/t/3558/24) | Harmful UI bulding blocks. |
+
 
 ## Ideation
 
@@ -35,7 +37,7 @@ Every Humane Tech Community member can suggest new Campaigns by posting in the [
 | [**Reality Shock**](/awareness-program/campaigns/reality-shock/) | [Mankind 2.0](/awareness-program/campaign-themes/mankind-2.0/) | [forum](https://community.humanetech.com/t/2767) | Using short, dramatic video's to shock people into awareness. |
 | [**Computer Says No**](/awareness-program/campaigns/computer-says-no/) | [Speak Easy](/awareness-program/campaign-themes/speak-easy/) | [forum](https://community.humanetech.com/t/2845) | Little Britain's famous meme, but with a Humane Tech twist. |
 | [**Don't Count On Me**](/awareness-program/campaigns/dont-count-on-me/) | Resocialized Media (proposal) | [forum](https://community.humanetech.com/t/3010) | We don't need those Social Media metrics to socialize. |
-| [**Harmful UI**](/awareness-program/campaigns/harmful-ui/) | Resocialized Media (proposal)) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/67), [forum](https://community.humanetech.com/t/3558/24) | Harmful UI bulding blocks. |
+
 
 ## Preparing
 
