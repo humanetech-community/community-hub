@@ -2,7 +2,7 @@
 permalink: /awareness-program/campaigns/
 title: "Campaigns"
 excerpt: "Campaigns of the Humane Tech Community"
-last_modified_at: 2019-04-26T13+02:00
+last_modified_at: 2019-05-11T13+02:00
 sidebar:
   nav: "activities"
 custom_pagination:
@@ -12,7 +12,7 @@ custom_pagination:
 
 ## About
 
-Campaigns are at the heart of the Awareness Program. They are where members team up to plan coordinated activities. Each **Campaign** has its own goals and deliverables to be produced when the campaign executes. Each campaign defines its own campaign strategy. Campaigns are less abstract concept than a campaign themes, and they can be short-lived, only executing to produce their deliverables and then finish.
+Campaigns are at the heart of the Awareness Program. They are where members team up to plan coordinated activities. Each **campaign** has its own goals and deliverables to be produced when the campaign executes. Each campaign defines its own campaign strategy. Campaigns are less abstract concept than a campaign themes, and they can be short-lived, only executing to produce their deliverables and then finish.
 
 In addition to the Campaigns displayed in this page, additional campaign proposals may be found in the [Issue Tracker](https://github.com/humanetech-community/awareness-program/issues?q=is%3Aissue+is%3Aopen+label%3Acampaign-proposal) of the Github repository associated with the Awareness Program.
 
