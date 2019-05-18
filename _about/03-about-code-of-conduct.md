@@ -59,6 +59,7 @@ Some external contributions from:
   - don't post topics that are clearly out of the interests and focus areas of the forum.
   - don't advertise your product/company/service in a generic post, you have the 'Judge my app' category if you want to propose something and get feedbacks from other members of the forum.
   - don't replicate the same post in multiple topics.
+  - if you reply to an existing topic, ask yourself if what you want to write is related to that topic or it would better fit into a brand new topic.
 
 ### Scope
 
