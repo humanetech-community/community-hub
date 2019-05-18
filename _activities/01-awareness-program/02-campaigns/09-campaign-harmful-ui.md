@@ -83,11 +83,12 @@ Create and share infographics about harmful building blocks of social media UIs 
 ## Deliverables
 
 
-### [Picture]: [Infographics](deliverable1-url)
+### [Picture]: [Infographics](/awareness-program/deliverables/harmful-ui/)
 
-Pictures on the [Instagram HTC account](https://www.instagram.com/humane_tech_community/).
 
-- [Link](https://raw.githubusercontent.com/humanetech-community/humanetech-community-awareness/master/campaigns/harmful-ui/Infographic_1.png) to the first resource on github published on the social channel.
+Some infographics to increase awareness about how social media (and other sites) are designed in order to attract and distract users.
+
+
 
 
 
