@@ -16,7 +16,7 @@ custom_pagination:
 | April 30, 2019 | [Mozilla Open Leaders Graduation](#2019-04-30-mozilla-open-leaders-graduation) |
 | May 25, 2019 | [Humane Tech Community Mozilla Sprint event](#2019-05-25-humane-tech-community-mozilla-sprint-event) |
 | May 28, 2019 | [Humane Tech London Meetup #3](#2019-05-28-humane-tech-london-meetup-3) |
-| June 3-7, 2019 | [The 9th International Conference on C&T - Transforming Communities](#from-2019-06-03-to-2019-06-07-C&T-transforming-communities) |
+| June 3-7, 2019 | [The 9th International Conference on C&T - Transforming Communities](#2019-06-03-to-2019-06-07-transforming-communities) |
 
 
 
@@ -58,7 +58,7 @@ Digital Cooldown helps people have a more meaningful and intentional relationshi
 {: .notice--info}
 
 
-### From 2019-06-03 to 2019-06-07: C&T - Transforming Communities
+### 2019-06-03 to 2019-06-07: Transforming Communities
 
 We recognize how communities are rooted in the construction of solidarities and mutual recognition at the same time there is tension and desire for change. We welcome scholarly contributions that pay particular attention to the roles of technology, and technology design, in the making, un-making, and re-making of communities.
 
