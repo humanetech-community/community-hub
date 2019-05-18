@@ -16,6 +16,9 @@ custom_pagination:
 | April 30, 2019 | [Mozilla Open Leaders Graduation](#2019-04-30-mozilla-open-leaders-graduation) |
 | May 25, 2019 | [Humane Tech Community Mozilla Sprint event](#2019-05-25-humane-tech-community-mozilla-sprint-event) |
 | May 28, 2019 | [Humane Tech London Meetup #3](#2019-05-28-humane-tech-london-meetup-3) |
+| June 3-7, 2019 | [The 9th International Conference on C&T - Transforming Communities](https://2019.comtech.community/index.html) |
+
+
 
 ### 2019-04-30: Mozilla Open Leaders Graduation
 
@@ -52,4 +55,14 @@ Digital Cooldown helps people have a more meaningful and intentional relationshi
 **Where**: TEA Building 56 Shoreditch High Street · London<br>
 **When**: Tuesday, May 28, 2019 6:30 PM to 9:00 PM BST<br>
 **More info**: [Humane Tech London Meetup Chapter](https://www.meetup.com/Humane-Tech-London/events/260847431/)
+{: .notice--info}
+
+
+### From 2019-06-03 to 2019-06-07: C&T - Transforming Communities
+
+We recognize how communities are rooted in the construction of solidarities and mutual recognition at the same time there is tension and desire for change. We welcome scholarly contributions that pay particular attention to the roles of technology, and technology design, in the making, un-making, and re-making of communities.
+
+**Where**: TU Wien, Vienna, Austria<br>
+**When**: June, from 3th to 7th<br>
+**More info**: [The 9th International Conference on C&T - Transforming Communities](https://2019.comtech.community/index.html)
 {: .notice--info}
