@@ -18,7 +18,7 @@ In addition to the Campaigns displayed in this page, additional campaign proposa
 
 Every Humane Tech Community member can suggest new Campaigns by posting in the [Awareness program](https://community.humanetech.com/c/awareness-program).
 
-## To do
+## Proposed
 
 | Campaign | Theme | Discussion | Description |
 | :--- | :---: | :---: | :--- |
@@ -37,7 +37,6 @@ Every Humane Tech Community member can suggest new Campaigns by posting in the [
 | [**Wiki Reach**](/awareness-program/campaigns/wiki-reach/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3114) | Let's spread our Humane Tech message on Wikipedia. |
 | [**Goodies**](/awareness-program/campaigns/goodies/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3222) | Promotional materials for the Humane Tech Community. |
 | [**Harmful UI**](/awareness-program/campaigns/harmful-ui/) | [Resocialized Media](/awareness-program/campaign-themes/resocialized-media/) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/67), [forum](https://community.humanetech.com/t/3558/24) | Harmful UI bulding blocks. |
-
 
 
 
