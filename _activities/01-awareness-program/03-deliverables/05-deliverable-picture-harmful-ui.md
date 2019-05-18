@@ -37,7 +37,7 @@ The deliverable type is , in this case, 'Video'. For other deliverables this can
 
 ### Harmful design in social media UI
 
-![pic 1](/assets/images/campaigns/deliverable-harmful-ui/infographic_1.png)
+![pic 1](/assets/images/campaigns/deliverable-harmful-ui/social-media-building-blocks.png)
 
 ![pic 2](/assets/images/campaigns/deliverable-harmful-ui/Infographic about harmful feed building.png)
 
