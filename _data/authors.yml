@@ -3,7 +3,7 @@
 # See also: Supported default options at '_includes/author-profile.html'
 # More info: https://mmistakes.github.io/minimal-mistakes/layout-author-override/
 #
-# Avatars must in size 290x310 or similar aspect ratio, to ensure proper circular 
+# Avatars must in size 290x310 or similar aspect ratio, to ensure proper circular
 # cutout, and alignmen in grids.
 
 Arnold Schrijver:
@@ -18,10 +18,20 @@ Arnold Schrijver:
 
 Siddhi Upadhyaya:
   name : "Siddhi Upadhyaya"
-  uri : "https://saraswatiproject.weebly.com/"
+  uri : "https://saraswatiproject.weebly.com"
   email :
-  bio : "Learning isn’t about being ‘smart’; instead, it’s about practicing and persevering through challenges” - Sal Khan"
+  bio : "Learning isn’t about being ‘smart’; instead, it’s about practicing and persevering through challenges - Sal Khan."
   avatar : "/assets/images/people/author-siddhi-upadhyaya.jpg"
   linkedin : "Siddhi Upadhyaya"
   github : "siddhvicious"
   forum : "Siddhi"
+
+Biswa Aryal:
+  name : "Biswa Aryal"
+  uri : "http://www.livingaroundtechnology.org"
+  email :
+  bio : "Awareness is the best way of realization. We need to be aware about our relationships with technology."
+  avatar : "/assets/images/people/author-biswa-aryal.jpg"
+  linkedin : "biswa-aryal-181707178"
+  github :
+  forum : "biswa"
