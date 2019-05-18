@@ -56,7 +56,7 @@ Some external contributions from:
 - Life priorities, interests, and passions can change. If you’re involved in the Community Team or other operative teams in the community, but you feel you must remove yourself from it, do so in a way that minimizes disruption. When we work together, our **work and ideas** are no longer just our own; they **belong to the community** as a whole. Inform other members of the team that you intend to step down, and if possible, help find someone to pick up your work. At the very least, ensure your work can be continued where you left off.
 - Our agreements with each other are the basis for trust, respect, and collegiality, so please be explicit about your intentions and expectations. Hidden agendas and expectations will be called out.
 - Be careful about what you are posting:
-  - don't post topics that are clearly out of the interests and focus areas of the forum
+  - don't post topics that are clearly out of the interests and focus areas of the forum.
   - don't advertise your product/company/service in a generic post, you have the 'Judge my app' category if you want to propose something and get feedbacks from other members of the forum.
   - don't replicate the same post in multiple topics.
 
