@@ -2,8 +2,9 @@
 title:  "Simple ways smartphones are damaging the life of families in developing countries"
 excerpt: "Imagine your family has more than 4 members. Your child doesn’t go to school because you cannot pay fees. You have to work as a laborer for 10 to 12 hours a day and you earn 5 dollars."
 header:
-  teaser: /assets/images/blog/damaging-families/credits-to-Durga-Prasad-Khanal.jpeg
-  og_image: /assets/images/blog/damaging-families/credits-to-Durga-Prasad-Khanal.jpeg
+  image: /assets/images/blog/damaging-families/credits-to-Durga-Prasad-Khanal.jpeg
+  teaser: /assets/images/blog/damaging-families/credits-to-Durga-Prasad-Khanal-ogimage.jpeg
+  og_image: /assets/images/blog/damaging-families/credits-to-Durga-Prasad-Khanal-ogimage.jpeg
 author: Biswa Aryal
 last_modified_at: 2019-05-19T07+02:00
 comments: true
