@@ -16,8 +16,8 @@ Of course, any non-members can contribute just as well. Though - if you are as c
 
 ## Events
 
-- [Upcoming events](/activities/events/)
-- [Past events](/activities/events/)
+- [Upcoming events](/activities/upcoming-events/)
+- [Past events](/activities/past-events/)
 - [Meetup chapters](/activities/meetup-chapters/)
 
 ## Awareness Program
