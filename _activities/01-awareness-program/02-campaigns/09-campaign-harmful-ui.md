@@ -38,7 +38,7 @@ custom_pagination:
 - Affiliation: Unofficial
 - Original idea: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
 - Coordinator: TBD
-- General discussion: [This forum topic](https://community.humanetech.com/t/infographic-about-harmful-app-ui-design-building-blocks-discussion/3558/24)
+- General discussion: [forum topic 1](https://community.humanetech.com/t/infographic-about-harmful-app-ui-design-building-blocks-discussion/3558/24), [forum topic 2](https://community.humanetech.com/t/infographic-about-backend-harmful-app-design/3648)
 - Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/harmful-ui), [original proposal](https://github.com/humanetech-community/awareness-program/issues/67)
 
 ## Summary
