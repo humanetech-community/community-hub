@@ -2,7 +2,7 @@
 permalink: /awareness-program/campaigns/harmful-ui/
 title: "&quot;Harmful UI&quot; campaign"
 excerpt: "Infographics about harmful app UI design building blocks."
-last_modified_at: 2019-05-11T9+02:00
+last_modified_at: 2019-05-24T9+02:00
 sidebar:
   nav: "activities"
 custom_pagination:
@@ -39,7 +39,8 @@ custom_pagination:
 - Original idea: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
 - Coordinator: TBD
 - General discussion: [forum topic 1](https://community.humanetech.com/t/infographic-about-harmful-app-ui-design-building-blocks-discussion/3558/24), [forum topic 2](https://community.humanetech.com/t/infographic-about-backend-harmful-app-design/3648)
-- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/harmful-ui), [original proposal](https://github.com/humanetech-community/awareness-program/issues/67)
+- Resources: [document](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/harmful-ui), [original proposal](https://github.com/humanetech-community/awareness-program/issues/67)
+- Open issues: [github](https://github.com/humanetech-community/awareness-program/issues?q=is%3Aissue+is%3Aopen+label%3Aharmful-ui)
 
 ## Summary
 
@@ -82,11 +83,13 @@ Create and share infographics about harmful building blocks of social media UIs 
 
 ## Deliverables
 
+Some infographics to increase awareness about how social media (and other sites) are designed in order to attract and distract users.
+
+The following infographics have been realised and published on HTC social channels.
 
 ### [Picture]: [Infographics](/awareness-program/deliverables/harmful-ui/)
 
-
-Some infographics to increase awareness about how social media (and other sites) are designed in order to attract and distract users.
+Ideas about next infographics: [github](https://github.com/humanetech-community/awareness-program/issues?q=is%3Aissue+is%3Aopen+label%3Aharmful-ui)
 
 
 
