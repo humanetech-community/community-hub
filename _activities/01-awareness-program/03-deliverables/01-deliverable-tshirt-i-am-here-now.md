@@ -36,8 +36,8 @@ The deliverable type is , in this case, 'Video'. For other deliverables this can
 - Affiliation: Official
 - Original idea: [@micheleminno](https://community.humanetech.com/u/micheleminno/summary)
 - Coordinator: TBD
-- General discussion: [This forum topic](https://community.humanetech.com/t/im-here-now-t-shirt-project/3153)
-- open issues: [github](https://github.com/humanetech-community/awareness-program/issues?q=is%3Aissue+is%3Aopen+label%3Aim-here-now)
+- General discussion: [forum topic](https://community.humanetech.com/t/im-here-now-t-shirt-project/3153)
+- Open issues: [github](https://github.com/humanetech-community/awareness-program/issues?q=is%3Aissue+is%3Aopen+label%3Aim-here-now)
 
 ## Summary
 
