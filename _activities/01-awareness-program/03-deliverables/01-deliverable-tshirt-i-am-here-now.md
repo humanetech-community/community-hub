@@ -2,7 +2,7 @@
 permalink: /awareness-program/deliverables/i-am-here-now/
 title: "&quot;I'm here now&quot; deliverable"
 excerpt: "T-shirt design that makes people aware how they are absorbed in their smartphone."
-last_modified_at: 2019-04-26T13+02:00
+last_modified_at: 2019-05-24T13+02:00
 sidebar:
   nav: "activities"
 custom_pagination:
@@ -58,47 +58,24 @@ Concept designs for this deliverable where first created by [@micheleminno](http
 
 ![I'm here now, Concept on black t-shirt](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/design-contest/submissions/im-here-now/humane-tech_im-here-now-shirt.jpg)
 
-Two T-shirt designs, one in [black](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/design-contest/submissions/im-here-now/humane-tech_im-here-now-black.jpg) and one in [white](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/design-contest/submissions/im-here-now/humane-tech_im-here-now-white.jpg) background. The person wearing it will show the solution to the problem simply walking and being aware of the world and the people around her or him, 
-in contrast to what is depicted on the front of t-shirt. 
+Two T-shirt designs, one in [black](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/design-contest/submissions/im-here-now/humane-tech_im-here-now-black.jpg) and one in [white](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/design-contest/submissions/im-here-now/humane-tech_im-here-now-white.jpg) background. The person wearing it will show the solution to the problem simply walking and being aware of the world and the people around her or him,
+in contrast to what is depicted on the front of t-shirt.
 
-People around her/him will be caught by the optical effect of the same person both walking eyes up and sucked on the phone, 
+People around her/him will be caught by the optical effect of the same person both walking eyes up and sucked on the phone,
 and they will realize the augmented value of the person not being on their smartphone, but **being here in that moment**.
 
 This could also be used as part of a viral campaign, maybe with hashtag **#imherenow**, combined with pictures taken by people while being present in the here and now and aware of the beauty of the world around them (e.g. like this person [on Instagram]( https://www.instagram.com/p/BhsdxSeAywj/?taken-by=energyisgod)).
 
 The t-shirt can also be used as a gift to active community members, and reward in future crowdfunding campaigns.
 
-## Activities
+## Status
 
-A number of things need to be done, for the t-shirt to become available:
+Most of the online printing webshops can print only in a square in the fore and the back of the t-shirt ([here](https://community.humanetech.com/t/humane-tech-apparel-webshop-list-wiki-post/3172)'s the list).
+A few of them provide 'all over' printing service, but it's not clear how much it would cost per unit and the time needed to print and ship the units or they ship only to US (i.e. [this one](https://www.scrappyapparel.com)).
 
-- Adapt the design, so it promotes the Humane Tech Community (and maybe also the Center for Humane Technology, but that comes secundary).
+A number of things need to be done, for the t-shirt to become available. You can see the open issues [here](https://github.com/humanetech-community/awareness-program/issues?q=is%3Aissue+is%3Aopen+label%3Aim-here-now).
 
-- Refining of the design by a graphics designer, so it is ready for production.
 
-  - The fact that the shoulders contain parts of the print, may be problematic (i.e. may not be supported by most t-shirt print companies).
-
-- Select one or more appropriate printing companies where people can order the t-shirt online.
-
-  - T-shirt should be available for ordering and delivery globally, not just in a single country.
-
-  - Selected company should comply with Humane Tech principles as much as possible.
-
-  - Payment should be arranged by the orderer and the company, without involvement of the community as intermediary.
-
-- We can create different language versions and color variations of the t-shirt.
-
-### Apparel webshop selection
-
-There are many great companies that print T-shirts and the like at low-cost and have great online tools as well as webshops to make this really easy. Your help is needed to select the best one! Let's try to find the one that complies best to Humane Tech principles and reward them with our orders.
-
-The requirements are:
-
-- **Low-cost**  - in production as well as sales prices (but humanely produced)
-
-- **World-wide delivery** - our (current and future) members are _everywhere_!
-
-- **Easy-to-use** - preferably a DIY web app where you can bring all things together easily
 
 ## Resources
 
