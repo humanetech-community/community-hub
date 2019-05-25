@@ -36,9 +36,13 @@ The social media channels involved in the campaign are listed below.
 
 ### Facebook
 
+https://www.facebook.com/humanetechnology/
+
 - For regular announcements of community activity and ongoing projects, exclusively to the CHT facebook group.
 
 ### LinkedIn
+
+https://www.linkedin.com/groups/12154112/
 
 - For sharing announcements about the community and ongoing project activities.
 - For direct approaches to connections in the personal networks of members.
