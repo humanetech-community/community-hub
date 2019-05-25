@@ -22,3 +22,5 @@ Campaign deliverables are the outputs of the various Campaigns that are run by t
 | [Memories of a Bartender](/awareness-program/deliverables/memories-of-a-bartender/) | Video | Idea | [Reality Shock](/awareness-program/campaigns/reality-shock/) | Short video about the evolution of social relations in a shared space (a bar). |
 | [Caffeine Injection](/awareness-program/deliverables/caffeine-injection/) | Video | Idea | [Reality Shock](/awareness-program/campaigns/reality-shock/) | Short video depicting the rapid and drastic growth in smartphone addiction. |
 | [Dirty Laundry](/awareness-program/deliverables/dirty-laundry/) | Video | Idea | [Reality Shock](/awareness-program/campaigns/reality-shock/) | Short video showing someone experiencing the violent aftermath of a severe data breach. |
+| [Harmful UI](/awareness-program/deliverables/harmful-ui/) | Pictures | Idea | [Harmful UI](/awareness-program/campaigns/harmful-ui/) | Infographics about harmful UI design. |
+| [Mind of cards](/awareness-program/deliverables/mind-of-cards/) | Game | Idea | [Mind of cards](/awareness-program/campaigns/mind-of-cards/) | Game to learn and discover mental biases. |

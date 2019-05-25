@@ -26,7 +26,7 @@ In this space our members collaborate to create (social) media campaigns and oth
 
 - [Campaign themes](/awareness-program/campaign-themes/)
 - [Campaigns](/awareness-program/campaigns/)
-- [Campaign deliverables](/awareness-program/campaign-deliverables/)
+- [Campaign deliverables](/awareness-program/deliverables/)
 
 ## Solutions Program
 
