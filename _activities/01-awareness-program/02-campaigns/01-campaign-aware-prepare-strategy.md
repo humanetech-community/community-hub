@@ -2,7 +2,7 @@
 permalink: /awareness-program/campaigns/aware-prepare/strategy/
 title: "&quot;Aware Prepare&quot; campaign strategy"
 excerpt: "Growth hacking the community and Awareness Program - Strategy."
-last_modified_at: 2019-04-26T13+02:00
+last_modified_at: 2019-05-25T13+02:00
 sidebar:
   nav: "activities"
 custom_pagination:
@@ -29,7 +29,7 @@ Activities to do once in a while on the forum:
   - Divide the list among campaigners team
   - Approach, asking for interest in participating in Awareness Campaigns
 
-  
+
 ## Social media channels
 
 The social media channels involved in the campaign are listed below.
