@@ -42,7 +42,7 @@ The social media channels involved in the campaign are listed below.
 
 ### LinkedIn
 
-- [CHT Linkeding group](https://www.linkedin.com/groups/12154112) (you have to ask permission to join)
+- [HTC Linkeding group](https://www.linkedin.com/groups/12154112) (you have to ask permission to join)
 
 - For sharing announcements about the community and ongoing project activities.
 - For direct approaches to connections in the personal networks of members.
