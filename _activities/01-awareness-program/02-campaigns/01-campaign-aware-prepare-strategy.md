@@ -36,13 +36,13 @@ The social media channels involved in the campaign are listed below.
 
 ### Facebook
 
-[Facebook CHT site](https://www.facebook.com/humanetechnology)
+- [Facebook CHT site](https://www.facebook.com/humanetechnology)
 
 - For regular announcements of community activity and ongoing projects, exclusively to the CHT facebook group.
 
 ### LinkedIn
 
-[CHT Linkeding group](https://www.linkedin.com/groups/12154112) (you have to ask permission to join)
+- [CHT Linkeding group](https://www.linkedin.com/groups/12154112) (you have to ask permission to join)
 
 - For sharing announcements about the community and ongoing project activities.
 - For direct approaches to connections in the personal networks of members.
@@ -50,12 +50,12 @@ The social media channels involved in the campaign are listed below.
 
 ### MeWe
 
-[CHT MeWe page](https://mewe.com/join/humanetechcommunity)
+- [CHT MeWe page](https://mewe.com/join/humanetechcommunity)
 
 ### Instagram
 
-[HTC Instagram page](https://www.instagram.com/humane_tech_community/)
+- [HTC Instagram page](https://www.instagram.com/humane_tech_community/)
 
 ### Twitter
 
-[HTC Twitter account](https://twitter.com/humane_tech_now)
+- [HTC Twitter account](https://twitter.com/humane_tech_now)
