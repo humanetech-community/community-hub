@@ -21,10 +21,10 @@ custom_pagination:
           should be copied to the Campaign README.md after your feedback is incorporated.
 -->
 
-## Info 
+## Info
 
 <!-- Provide short name that reflects the gist of the campaign, used as working title.
-      Also add the link to community forum topic that is used for general discussion. 
+      Also add the link to community forum topic that is used for general discussion.
 
       Valid values for 'Status' are: Ideation, Preparing, Launched, Finished
       Valid values for 'Affiliation' are: Official, Unofficial
@@ -39,9 +39,10 @@ custom_pagination:
 - Original idea: [@aschrijver](https://community.humanetech.com/u/aschrijver/summary)
 - Coordinator: TBD
 - General discussion: [this forum topic](https://community.humanetech.com/t/3114)
-- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/wiki-reach), [original proposal](https://github.com/humanetech-community/awareness-program/issues/63)
+- Documents: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/wiki-reach), [original proposal](https://github.com/humanetech-community/awareness-program/issues/63)
+- Open issues: [Github](https://github.com/humanetech-community/awareness-program/labels/wiki-reach)
 
-## Summary 
+## Summary
 
 <!-- Clear and concise explanation in 1-3 lines of text. -->
 
@@ -108,7 +109,6 @@ Wiki editors:
 
 - [@ALFREDO](https://community.humanetech.com/u/ALFREDO/summary)
 
-This video, given by John Doe, shows how effective mini-breaks are, and how to remind yourself to take them.
 
 ## Strategy
 
@@ -117,7 +117,7 @@ This video, given by John Doe, shows how effective mini-breaks are, and how to r
 - This campaign does not require a strategy. Strategy is defined on the Theme, or in Deliverables.
  -->
 
-- Communication on ongoing editing and division of high-level tasks is done on the forum, to show wher we are active
+- Communication on ongoing editing and division of high-level tasks is done on the forum, to show where we are active
 - When edits have been made, topic editing finishes, then the deliverable is updated
 - An edit of one language version should be synchronized in the other versions. It is best if English is leading in this
 - If an edit is complete and contains references to either CHT or HTC we should investigate how to promote it using our social media channels and community website
@@ -128,7 +128,7 @@ We will improve the strategy outlined here, as we go along.
 
 <!-- (optional) Financial requirements, required budget, ways to obtain funds (keep it short, couple of paragraphs, some bullets). If necessary link to separate detailed funding document. Use the placeholder text if no funding is required. -->
 
-- No funding is required to execute this campaign. 
+- No funding is required to execute this campaign.
 
 ## Milestones
 
