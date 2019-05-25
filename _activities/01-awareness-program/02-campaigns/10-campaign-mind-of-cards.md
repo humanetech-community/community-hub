@@ -105,7 +105,26 @@ Cards:
 
 Rules of the game:
 
-TODO
+Phase 1
+- each one has to choose one (or more) cognitive bias in the [picture](https://www.visualcapitalist.com/every-single-cognitive-bias)
+- they have to check the definition of the bias in the wikipedia list
+- they have to think about two use cases of the bias:
+-- positive case: a case in which applying the bias results in a positive effect for the applying person
+-- negative case: a case in which applying the bias results in a negative effect for the applying person, and positive for someone else (physical person, company, social media, etc.) who exploited the bias to get some profit (money, fame, approval, ..)
+- once they have the two cases for each chosen bias, they have to draw three paper cards: one with the name and description of the bias, one with the negative use case, one with the positive use case.
+
+Phase 2
+
+This would be the game itself.
+
+- each one picks up the same number of cards from each of the three sets of cards (biases, positive cases, negative cases) until there are no more cards on the table
+
+In turn:
+- a player throws on the table a bias card
+- the others have to reply with the relative positive and negative case, if they have it among their cards
+-- if the 2th and 3th cards thrown are correct relatively to the thrown bias, they stay on the table, otherwise who threw them has to pick them up again
+- the first one who remains with no cards in their hands wins
+
 
 ## Strategy
 
