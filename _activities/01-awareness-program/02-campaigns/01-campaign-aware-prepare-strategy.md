@@ -36,9 +36,9 @@ The social media channels involved in the campaign are listed below.
 
 ### Facebook
 
-- [Facebook CHT site](https://www.facebook.com/humanetechnology)
+- [Facebook site of Center for Humane Technology (CHT)](https://www.facebook.com/humanetechnology)
 
-- For regular announcements of community activity and ongoing projects, exclusively to the CHT facebook group.
+- For regular announcements of HTC community activity and ongoing projects, exclusively to the CHT facebook group.
 
 ### LinkedIn
 
