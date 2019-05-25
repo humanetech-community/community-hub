@@ -21,7 +21,6 @@ custom_pagination:
           should be copied to the Campaign README.md after your feedback is incorporated.
 -->
 
-# Mind of cards Campaign
 
 <!-- Please fill in the information below each header according to the instructions.
 
