@@ -21,10 +21,10 @@ custom_pagination:
           should be copied to the Campaign README.md after your feedback is incorporated.
 -->
 
-## Info 
+## Info
 
 <!-- Provide short name that reflects the gist of the campaign, used as working title.
-      Also add the link to community forum topic that is used for general discussion. 
+      Also add the link to community forum topic that is used for general discussion.
 
       Valid values for 'Status' are: Ideation, Preparing, Launched, Finished
       Valid values for 'Affiliation' are: Official, Unofficial
@@ -39,9 +39,10 @@ custom_pagination:
 - Original idea: [@aschrijver](https://community.humanetech.com/u/aschrijver)
 - Coordinator: [@aschrijver](https://community.humanetech.com/u/aschrijver)
 - General discussion: [This forum topic](https://community.humanetech.com/t/3024)
-- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/eventful), [original proposal](https://github.com/humanetech-community/awareness-program/issues/62)
+- Documents: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/eventful), [original proposal](https://github.com/humanetech-community/awareness-program/issues/62)
+- Open issues: [Github](https://github.com/humanetech-community/awareness-program/labels/Eventful)
 
-## Summary 
+## Summary
 
 <!-- Clear and concise explanation in 1-3 lines of text. -->
 
@@ -103,7 +104,7 @@ Unification starts by rallying current meetup organizers, and providing a common
 
 <!-- Sub-headers with the planned deliverables and their summaries. Update this later to reflect changes.  The second sub-header gives an example. -->
 
-### Forum Group: [Event Organizers](https://community.humanetech.com/groups/Events) 
+### Forum Group: [Event Organizers](https://community.humanetech.com/groups/Events)
 
 This forum group is for the team of all members involved in event organization and meetup chapter owners. Any member can request to join and in the group we discuss ongoing planning and ideas for the Events Program.
 
@@ -111,11 +112,7 @@ This forum group is for the team of all members involved in event organization a
 
 This community role is for active community members that are involved with the Events Program and Eventful campaign for the community as a whole. The role involves continuous improvement of the program and initiating exciting new event initiatives. People in this role can become part of the [Humane Tech Community organization](https://www.linkedin.com/company/humanetech-community) on LinkedIn as 'Event Manager'.
 
-### Community Website: [Meetups Space]() [TODO]
 
-The community website at [humanetech.community](https://humanetech.community) will offer a common space for all meetup chapters (at `humanetech.community/meetups`) and individual chapter homes (at e.g. `amsterdam.humanetech.community`).
-
-Part of the website presence is a common calendar, and individual calendars for each chapter.
 
 ## Strategy
 
@@ -155,7 +152,7 @@ Results and feedback on past meetups will be communicated to the above channels 
 
 <!-- (optional) Financial requirements, required budget, ways to obtain funds (keep it short, couple of paragraphs, some bullets). If necessary link to separate detailed funding document. Use the placeholder text if no funding is required. -->
 
-- No funding is required to execute this campaign. 
+- No funding is required to execute this campaign.
 
 ## Milestones
 
