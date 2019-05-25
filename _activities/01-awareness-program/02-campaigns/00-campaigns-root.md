@@ -26,7 +26,7 @@ Every Humane Tech Community member can suggest new Campaigns by posting in the [
 | [**Reality Shock**](/awareness-program/campaigns/reality-shock/) | [Mankind 2.0](/awareness-program/campaign-themes/mankind-2.0/) | [forum](https://community.humanetech.com/t/2767) | Using short, dramatic video's to shock people into awareness. |
 | [**Computer Says No**](/awareness-program/campaigns/computer-says-no/) | [Speak Easy](/awareness-program/campaign-themes/speak-easy/) | [forum](https://community.humanetech.com/t/2845) | Little Britain's famous meme, but with a Humane Tech twist. |
 | [**Don't Count On Me**](/awareness-program/campaigns/dont-count-on-me/) | [Resocialized Media](/awareness-program/campaign-themes/resocialized-media/) | [forum](https://community.humanetech.com/t/3010) | We don't need those Social Media metrics to socialize. |
-
+| [**Mind of cards**](/awareness-program/campaigns/mind-of-cards/) | [Gamification](/awareness-program/campaign-themes/gamification/) | [forum](https://community.humanetech.com/t/an-idea-for-gamifying-lessons-on-cognitive-biases-in-digital-citizenship-classes/3096) | Gamification to spread Humane Tech. |
 
 ## In progress
 
