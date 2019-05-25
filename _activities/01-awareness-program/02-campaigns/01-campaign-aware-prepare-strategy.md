@@ -18,7 +18,7 @@ custom_pagination:
 
 ## Activity planning
 
-[Open issues on github](https://github.com/humanetech-community/awareness-program/issues?utf8=%E2%9C%93&q=is%3Aissue++label%3Astrategy+).
+- [Open issues on github](https://github.com/humanetech-community/awareness-program/issues?utf8=%E2%9C%93&q=is%3Aissue++label%3Astrategy+)
 
 
 Activities to do once in a while on the forum:
