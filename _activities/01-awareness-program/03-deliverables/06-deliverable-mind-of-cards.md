@@ -37,4 +37,4 @@ The deliverable type is , in this case, 'Video'. For other deliverables this can
 
 <br/>
 
-![pic 1](/assets/images/campaigns/deliverable-mind-of-cards/cards.png)
+![pic 1](/assets/images/campaigns/deliverable-mind-of-cards/cards.jpg)
