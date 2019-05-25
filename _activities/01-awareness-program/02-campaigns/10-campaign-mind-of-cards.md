@@ -52,6 +52,7 @@ custom_pagination:
 - Original idea: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
 - Coordinator: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
 - General discussion: [An idea for gamifying lessons on cognitive biases in Digital Citizenship classes](https://community.humanetech.com/t/an-idea-for-gamifying-lessons-on-cognitive-biases-in-digital-citizenship-classes/3096)
+- Open issues: [Github](https://github.com/humanetech-community/awareness-program/labels/mind-of-cards)
 
 ## Summary
 
