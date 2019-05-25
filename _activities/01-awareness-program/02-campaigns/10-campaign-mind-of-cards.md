@@ -1,7 +1,7 @@
 ---
-permalink: /awareness-program/campaigns/harmful-ui/
-title: "&quot;Harmful UI&quot; campaign"
-excerpt: "Infographics about harmful app UI design building blocks."
+permalink: /awareness-program/campaigns/mind-of-cards/
+title: "&quot;Mind of cards&quot; campaign"
+excerpt: "Gamification to spread Humane Tech concepts."
 last_modified_at: 2019-05-24T9+02:00
 sidebar:
   nav: "activities"
