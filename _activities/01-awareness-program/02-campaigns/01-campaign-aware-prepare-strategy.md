@@ -50,7 +50,7 @@ The social media channels involved in the campaign are listed below.
 
 ### MeWe
 
-- [CHT MeWe page](https://mewe.com/join/humanetechcommunity)
+- [HTC MeWe page](https://mewe.com/join/humanetechcommunity)
 
 ### Instagram
 
