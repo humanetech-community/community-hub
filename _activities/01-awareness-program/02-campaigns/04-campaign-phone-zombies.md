@@ -21,7 +21,7 @@ custom_pagination:
           should be copied to the Campaign README.md after your feedback is incorporated.
 -->
 
-## Info 
+## Info
 
 <!-- Provide short name that reflects the gist of the campaign, used as working title.
       Also add the link to community forum topic that is used for general discussion. -->
@@ -30,12 +30,13 @@ custom_pagination:
 - Theme: [Speak Easy](/awareness-program/campaign-themes/speak-easy/)
 - Status: Ideation
 - Affiliation: Unofficial
-- Original idea: [aschrijver](https://community.humanetech.com/u/aschrijver/summary) 
+- Original idea: [aschrijver](https://community.humanetech.com/u/aschrijver/summary)
 - Coordinator: TBD
 - General discussion: [This forum topic](https://community.humanetech.com/t/2710)
-- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/phone-zombies), [original proposal](https://github.com/humanetech-community/awareness-program/issues/25)
+- Documents: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/phone-zombies), [original proposal](https://github.com/humanetech-community/awareness-program/issues/25)
+- Open issues: [Github](https://github.com/humanetech-community/awareness-program/labels/phone-zombies)
 
-## Summary 
+## Summary
 
 <!-- Clear and concise explanation in 1-3 lines of text. -->
 
@@ -97,7 +98,7 @@ And in social media memes:
 
 <!-- Sub-headers with the planned deliverables and their summaries. Update this later to reflect changes.  The second sub-header gives an example. -->
 
-### Video: [Phone Thriller](deliverable-url) (Idea, Todo) 
+### Video: [Phone Thriller](deliverable-url) (Idea, Todo)
 
 This very short, funny - but with shock effect - video re-enacts the start of Michael Jackson's famous Thriller until the moment that Michael is touched at the shoulder and swivels around, showing his zombie face.
 
@@ -130,7 +131,7 @@ A series of animated GIF's to share on social media
 
 <!-- (optional) Financial requirements, required budget, ways to obtain funds (keep it short, couple of paragraphs, some bullets). If necessary link to separate detailed funding document. Use the placeholder text if no funding is required. -->
 
-- Funding requirements will be determined per individual Deliverable. 
+- Funding requirements will be determined per individual Deliverable.
 
 ## Milestones
 
