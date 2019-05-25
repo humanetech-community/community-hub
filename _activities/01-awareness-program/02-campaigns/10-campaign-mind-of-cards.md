@@ -45,7 +45,7 @@ custom_pagination:
 -->
 
 - Name: **Mind of cards**
-- Theme: [Tech Wise ](https://github.com/humanetech-community/humanetech-community-awareness/blob/master/themes/tech-wise/README.md)
+- Theme: [Gamification ](https://github.com/humanetech-community/humanetech-community-awareness/blob/master/themes/gamification/README.md)
 - Status: Ideation
 - Affiliation: Unofficial
 - Original idea: [micheleminno](https://community.humanetech.com/u/micheleminno/summary)
@@ -93,7 +93,7 @@ Games to learn and make people aware about cognitive biases, especially relating
 
 <!-- Sub-headers with the planned deliverables and their summaries. Update this later to reflect changes.  The second sub-header gives an example. -->
 
-### [Deliverable type]: [The game](deliverable-url)
+### [Deliverable type]: [The game](/awareness-program/deliverables/mind-of-cards/)
 
 [Deliverable summary]
 
