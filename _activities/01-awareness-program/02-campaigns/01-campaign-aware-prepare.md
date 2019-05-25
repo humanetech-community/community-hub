@@ -21,7 +21,7 @@ custom_pagination:
           should be copied to the Campaign README.md after your feedback is incorporated.
 -->
 
-## Info 
+## Info
 
 <!-- Provide short name that reflects the gist of the campaign, used as working title.
       Also add the link to community forum topic that is used for general discussion. -->
@@ -35,7 +35,7 @@ custom_pagination:
 - General discussion: [This forum topic](https://community.humanetech.com/t/2839)
 - Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/aware-prepare), [original proposal](https://github.com/humanetech-community/awareness-program/issues/24)
 
-## Summary 
+## Summary
 
 <!-- Clear and concise explanation in 1-3 lines of text. -->
 
@@ -64,7 +64,7 @@ Crowdsourcing means, finding a crowd of contributors. This campaign is about gro
 
 The success criteria will need to be updated as the project comes along, but currently are:
 
-- Maintain a steady growth of activists and campaigners across the 5 stages of involvement (see [Strategy](#strategy).
+- Maintain a steady growth of activists and campaigners across the 5 stages of involvement (see [Strategy](#strategy)).
 - Daily and growing activity on open tasks in the project Issue tracker, and reporting back to the forum.
 - Assignment of active cooperators to newly defined project roles, to distribute project responsibilities.
 
@@ -151,7 +151,7 @@ Strategy details:
 
 <!-- (optional) Financial requirements, required budget, ways to obtain funds (keep it short, couple of paragraphs, some bullets). If necessary link to separate detailed funding document. Use the placeholder text if no funding is required. -->
 
-- No funding is required to execute this campaign. 
+- No funding is required to execute this campaign.
 
 ## Milestones
 
