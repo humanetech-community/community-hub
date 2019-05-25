@@ -33,7 +33,8 @@ custom_pagination:
 - Original idea: N/A
 - Coordinator: [aschrijver](https://community.humanetech.com/u/aschrijver/summary)
 - General discussion: [This forum topic](https://community.humanetech.com/t/2839)
-- Github: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/aware-prepare), [original proposal](https://github.com/humanetech-community/awareness-program/issues/24)
+- Documents: [resources](https://github.com/humanetech-community/awareness-program/tree/master/campaigns/aware-prepare), [original proposal](https://github.com/humanetech-community/awareness-program/issues/24)
+- Open issues: [Github](https://github.com/humanetech-community/awareness-program/issues?q=is%3Aissue+is%3Aopen+label%3Aaware-prepare), [Github website](https://github.com/humanetech-community/community-hub/issues)
 
 ## Summary
 
