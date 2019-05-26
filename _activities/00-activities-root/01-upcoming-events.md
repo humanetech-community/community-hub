@@ -12,20 +12,10 @@ custom_pagination:
 
 | Date | Event |
 | :--- | :--- |
-| May 25, 2019 | [Humane Tech Community Mozilla Sprint event](#2019-05-25-humane-tech-community-mozilla-sprint-event) |
 | May 28, 2019 | [Humane Tech London Meetup #3](#2019-05-28-humane-tech-london-meetup-3) |
 | June 3-7, 2019 | [The 9th International Conference on C&T - Transforming Communities](#2019-06-03-to-2019-06-07-transforming-communities) |
 
 
-
-### 2019-05-25: Humane Tech Community Mozilla Sprint Event
-
-Join HTC via video chat to ask questions about what we do and what we think about humane technology hot topics.
-
-**Where**: On [Zoom](https://zoom.us/) <br>
-**When**: Sat May 25, 2019 11:00am – 1pm Pacific Standard Time<br>
-**More info**: [Event description on Mozilla pulse](https://www.mozillapulse.org/entry/1166)
-{: .notice--info}
 
 ### 2019-05-28: Humane Tech London Meetup #3
 

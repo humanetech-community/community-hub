@@ -12,7 +12,18 @@ custom_pagination:
 
 | Date | Event |
 | :--- | :--- |
+| May 25, 2019 | [Humane Tech Community Mozilla Sprint event](#2019-05-25-humane-tech-community-mozilla-sprint-event) |
 | April 30, 2019 | [Mozilla Open Leaders Graduation](#2019-04-30-mozilla-open-leaders-graduation) |
+
+
+### 2019-05-25: Humane Tech Community Mozilla Sprint Event
+
+Join HTC via video chat to ask questions about what we do and what we think about humane technology hot topics.
+
+**Where**: On [Zoom](https://zoom.us/) <br>
+**When**: Sat May 25, 2019 11:00am – 1pm Pacific Standard Time<br>
+**More info**: [Event description on Mozilla pulse](https://www.mozillapulse.org/entry/1166)
+{: .notice--info}
 
 
 ### 2019-04-30: Mozilla Open Leaders Graduation
