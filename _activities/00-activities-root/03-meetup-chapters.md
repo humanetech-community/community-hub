@@ -28,8 +28,8 @@ custom_pagination:
 | Seattle | [@joseadna](https://community.humanetech.com/u/joseadna/summary) | [**Meetup.com**](https://www.meetup.com/Humane-Tech-Seattle-Puget-Sound/), [forum discussion](https://community.humanetech.com/t/seattle-chapter-meetups/872) | 
 
 <!-- Embed chapters map: -->
-<iframe src="https://vbernardes.github.io/htc-map/?show=chapters" width="100%" height="400" allowfullscreen="true" frameborder="0">
-<p><a href="https://vbernardes.github.io/htc-map/?show=chapters" target="_blank">See the Humane Tech Community Map!</a></p>
+<iframe src="https://vbernardes.github.io/htc-map/" width="100%" height="400" allowfullscreen="true" frameborder="0">
+<p><a href="https://vbernardes.github.io/htc-map/" target="_blank">See the Humane Tech Community Map!</a></p>
 </iframe>
 
 ## Other Humane Technology-related Meetup Groups
