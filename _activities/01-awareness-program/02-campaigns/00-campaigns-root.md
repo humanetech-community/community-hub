@@ -36,7 +36,8 @@ Every Humane Tech Community member can suggest new Campaigns by posting in the [
 | [**Eventful**](/awareness-program/campaigns/eventful/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3024) | Foster a vibrant meetup culture, organize exciting events. |
 | [**Wiki Reach**](/awareness-program/campaigns/wiki-reach/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3114) | Let's spread our Humane Tech message on Wikipedia. |
 | [**Goodies**](/awareness-program/campaigns/goodies/) | [Dogfooding](/awareness-program/campaign-themes/dogfooding/) | [forum](https://community.humanetech.com/t/3222) | Promotional materials for the Humane Tech Community. |
-| [**Harmful UI**](/awareness-program/campaigns/harmful-ui/) | [Resocialized Media](/awareness-program/campaign-themes/resocialized-media/) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/67), [forum](https://community.humanetech.com/t/3558/24) | Harmful UI bulding blocks. |
+| [**Harmful UI**](/awareness-program/campaigns/harmful-ui/) | [Resocialized Media](/awareness-program/campaign-themes/resocialized-media/) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/67), [forum](https://community.humanetech.com/t/3558/24) | Harmful UI building blocks. |
+| [**Explain it visually**](/awareness-program/campaigns/explain-it-visually/) | [TODO](/awareness-program/campaign-themes/TODO/) | [proposal](https://github.com/humanetech-community/humanetech-community-awareness/issues/TODO), [forum](https://community.humanetech.com/t/explain-it-visually-video-campaign/3752) | short explanatory videos. |
 
 
 
