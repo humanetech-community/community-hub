@@ -73,7 +73,7 @@ Some external contributions from:
 
 - In order **to maintain our forum and community**, moderators reserve the **right to remove any content and any user account** if content/account does not agree with this code of conduct.
 
-- Moderators should edit the content of a topic written by a member only when it violates any rule contained in this CoC or in order to fix some evident format or grammar error.
+- Moderators should edit the content of a topic written by a member **only when** it violates any rule contained in this document or in order to fix some evident format or grammar error.
 
 - All **complaints** will be **reviewed and investigated** and will result in a response that is deemed necessary and appropriate to the circumstances.
 
