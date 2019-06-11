@@ -67,9 +67,11 @@ under_construction:
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% for post in site.posts limit:2 %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+<div class="grid__wrapper">
+  {% for post in site.posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
 
 {% include feature_row id="feature_quote2" type="center" %}
 
