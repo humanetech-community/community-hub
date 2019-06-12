@@ -168,8 +168,7 @@
     }
 
     &:nth-child(4n + 1) {
-      clear: none;
-      margin-left: gutter(1 of 12);
+      clear: both;
     }
 
     &:nth-child(4n + 2) {
@@ -179,7 +178,7 @@
 
     &:nth-child(4n + 3) {
       clear: none;
-      // margin-left: gutter(1 of 12);
+      margin-left: gutter(1 of 12);
     }
 
     &:nth-child(4n + 4) {
