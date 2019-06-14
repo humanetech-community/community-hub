@@ -15,6 +15,7 @@ custom_pagination:
 | :--- | :--- | :--- |
 | Amsterdam | [@martijn.catz](https://community.humanetech.com/u/martijn.catz/summary) |  [**Meetup.com**](https://www.meetup.com/HumaneTech-AMS/), [forum discussion](https://community.humanetech.com/t/amsterdam-chapter-meetups/1100) |
 | Baltimore, DC Metro | [@Jbjusten](https://community.humanetech.com/u/Jbjusten/summary), [@AaronChang](https://community.humanetech.com/u/AaronChang/summary) | [**Meetup.com**](https://www.meetup.com/Montgomery-County-Humane-Technology-Meetup/), [forum discussion](https://community.humanetech.com/t/baltimore-dc-metro-meetups/522/13) |
+| Berlin | [@welf](https://community.humanetech.com/u/welf/summary) | [**Meetup.com**](https://www.meetup.com/Humane-Technology/), [forum discussion](https://community.humanetech.com/t/humane-tech-meetup-berlin-1/4143) |
 | Brno, Czech Republic | [@Bozon](https://community.humanetech.com/u/bozon/summary) | [**Meetup.com**](https://www.meetup.com/Humane-Tech-Brno/) |
 | Köln | [@Kamil](https://community.humanetech.com/u/Kamil/summary) | [**Meetup.com**](https://www.meetup.com/Humane-Tech-Rheinland/), [forum discussion](https://community.humanetech.com/t/rhineland-germany-cologne-dusseldorf-bonn-aachen-chapter/1067) | 
 | Köln | [@Janmar](https://community.humanetech.com/u/Janmar/summary) | [**Meetup.com**](https://www.meetup.com/humane-tech-nrw/) |
@@ -38,8 +39,8 @@ The following meetup chapters are not related to the Humane Tech Community, but 
 
 | Meetup Chapter | Member Organizers | Description and status |
 | :--- | :--- | :--- |
-| Berlin | [@quanders](https://community.humanetech.com/u/quanders/summary) | [**Meetup.com**](https://www.meetup.com/Ethical-Technology/), Ethical Tech & Humane Design, [forum discussion](https://community.humanetech.com/t/germany-chapter-meetups/594) |
 | Hamburg | [@quanders](https://community.humanetech.com/u/quanders/summary) | [**Meetup.com**](https://www.meetup.com/Humane-Technology-Hamburg/), Ethical Tech & Humane Design, [forum discussion](https://community.humanetech.com/t/germany-chapter-meetups/594/6) | 
+| London | [@anded](https://community.humanetech.com/u/anded/summary) | [**Meetup.com**](https://www.meetup.com/Consciously-Digital-London/), Consciously Digital, [forum discussion](https://community.humanetech.com/t/london-consciously-digital-meetup/4149) |
 | Los Angeles | [@datadave](https://community.humanetech.com/u/datadave/summary) | [**Meetup.com**](https://www.meetup.com/our-lives-our-data-la/), Our lives, Our Data, [forum discussion](https://community.humanetech.com/t/los-angeles-chapter-meetings/268/2) |
 | New York City | - | [**Meetup.com**](https://www.meetup.com/Human-Tech-Meetup/), Human Tech Meetup |
 | San Diego | [@zack](https://community.humanetech.com/u/zack/summary) | [**Meetup.com**](https://www.meetup.com/San-Diego-CONSCIOUSNESS-HACKING-Meetup/), Consciousness hacking, [forum discussion](https://community.humanetech.com/t/san-diego-meetup-for-humane-technologists/2228) |
