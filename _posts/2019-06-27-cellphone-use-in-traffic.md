@@ -2,9 +2,9 @@
 title:  "Cellphone use in traffic"
 excerpt: "Kathmandu is the most populated city in Nepal. Most of the people use motorbikes to get around in the city, and almost all of them have cellphones."
 header:
-  image: /assets/images/blog/damaging-families/cellphone-use-in-traffic.jpeg
-  teaser: /assets/images/blog/damaging-families/cellphone-use-in-traffic-ogimage.jpeg
-  og_image: /assets/images/blog/damaging-families/cellphone-use-in-traffic-ogimage.jpeg
+  image: /assets/images/blog/cellphone-use-in-traffic/cellphone-use-in-traffic.jpeg
+  teaser: /assets/images/blog/cellphone-use-in-traffic/cellphone-use-in-traffic-ogimage.jpeg
+  og_image: /assets/images/blog/cellphone-use-in-traffic/cellphone-use-in-traffic-ogimage.jpeg
 author: Biswa Aryal
 last_modified_at: 2019-06-27T07+02:00
 comments: true
