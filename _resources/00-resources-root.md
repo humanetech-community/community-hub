@@ -69,7 +69,11 @@ custom_pagination:
 
   - [COMPUTATIONAL PROPAGANDA: Why Data Extraction Allows MANIPULATION](https://archive.org/details/COMPUTATIONALPROPAGANDAWhyDataExtractionAllowsMANIPULATIONInterviewWithMartaPeir) ([YouTube](https://www.youtube.com/watch?v=0PId2LL5M0c),  [Podcast](https://borjas.blog/episodes/privateid-s01e16-podcast-borja-moya.mp3)) (_interview_).
 
+  - [Illiberalism, Polarized Societies and Inner Dictatorships // a Conversation with Alessia Putin](https://www.youtube.com/watch?v=sKCFzQWDogA) (_interview_).
 
+  - [The Rise of Data Dictatorships](https://archive.org/details/TheRiseOfDataDictatorshipsTheBmShowBorjaMoya) ([YouTube](https://www.youtube.com/watch?v=Ei-8j2zJNGI)) (_nonfiction_).
+
+  - [The Digital COLD WAR](https://archive.org/details/TheDigitalColdWarByBorjaMoyaTheBmShow061919) ([YouTube](https://youtu.be/5IgezGGLbic)) (_nonfiction_).
 
 ---
 
