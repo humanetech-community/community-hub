@@ -8,14 +8,9 @@ header:
 author: Cai Yuqian
 last_modified_at: 2019-07-07T07+02:00
 comments: true
-discourse_topic_id: 4030
+discourse_topic_id: 4201
 
-# See: https://github.com/humanetech-community/community-hub/issues/48
-#
-# categories:
-#  - General
-# tags:
-#  - announcement
+
 ---
 
 **The age of QQ**
