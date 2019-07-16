@@ -18,7 +18,7 @@ main:
 # top-level pages (docs, activities, resources)
 topleveldocs:
   - title: "Documentation"
-    url: /
+    url: /docs/
     children:
       - title: "Wellbeing"
         url: /focus/wellbeing/
@@ -102,7 +102,7 @@ activities:
       - title: "Upcoming &amp; past events"
         url: /activities/events/
       - title: "Meetup chapters"
-        url: /activities/meetup-chapters/ 
+        url: /activities/meetup-chapters/
   - title: "Awareness"
     children:
       - title: "Campaign themes"
@@ -133,7 +133,7 @@ harms:
         class: "padding"
       - title: "Harms to Society"
         url: /harms/society/
-        class: "padding"     
+        class: "padding"
 
 # navigation of the 'About' section
 about:
