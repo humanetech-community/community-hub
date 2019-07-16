@@ -42,4 +42,4 @@ The Education Program has not yet started. Do you have ideas for this program. T
 
 ## Research Program
 
-The Research Program has not yet started. Do you have ideas for this program. Then we greatly encourage you to create a topic on our discussion forum in the [Education program](https://community.humanetech.com/c/focus/research-program) category.
+The Research Program has not yet started. Do you have ideas for this program. Then we greatly encourage you to create a topic on our discussion forum in the [Research program](https://community.humanetech.com/c/focus/research-program) category.
