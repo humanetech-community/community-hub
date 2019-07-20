@@ -100,7 +100,7 @@ activities:
   - title: "Events"
     children:
       - title: "Upcoming &amp; past events"
-        url: /activities/events/
+        url: /activities/upcoming-events/
       - title: "Meetup chapters"
         url: /activities/meetup-chapters/
   - title: "Awareness"
