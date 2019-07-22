@@ -6,9 +6,7 @@ author_profile: false
 last_modified_at: 2019-07-22T12+02:00
 sidebar:
   nav: "resources"
-custom_pagination:
-  prev: /resources/
-  next: /transcript-1/
+
 ---
 
 #### Episode n. 1
