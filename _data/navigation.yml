@@ -155,6 +155,6 @@ resources:
     url: /resources/
     children:
       - title: "Internal"
-        url: "/resources/internal/"
+        url: "/resources#internal/"
       - title: "External"
-        url: /resources/internal/
+        url: /resources#external/
