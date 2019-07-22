@@ -45,6 +45,7 @@ You can read the transcript [here](./htc-podcast/01-transcript).
 - [What is free software (free as in freedom, not cost)](https://www.gnu.org/philosophy/free-sw.en.html)
 - [How free software is essential for educational purposes at schools/ universities](https://www.gnu.org/education/education.html)
 - [Free software’s importance greater today than in the past](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+- [Dion Moult on ethical software](https://thinkmoult.com/five-fundamental-facets-of-ethical-software.html) (mentioned in Pat’s question on forking)
 - [Kashmir Hill](https://twitter.com/kashhill), research journalist
 - [Kashmir Hill’s research series _Life Without the Tech Giants_](https://gizmodo.com/life-without-the-tech-giants-1830258056) (Gokul states that this research series inspired him to build the Cloud Firewall addon, which enables everyone to replicate Kashmir’s research)
 - [Ublock Origin addon](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
