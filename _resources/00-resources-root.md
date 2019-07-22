@@ -5,29 +5,35 @@ excerpt: "Resources of the Humane Tech Community"
 author_profile: false
 last_modified_at: 2019-05-10T12+02:00
 sidebar:
-  nav: "topleveldocs"
+  nav: "resources"
 custom_pagination:
   prev: /activities/
   next: /about/
 ---
 
-## Wellbeing
+## Internal
 
-### Health
+
+
+## External
+
+### Wellbeing
+
+#### Health
 
 - Nicholas Carr - [_The Shallows: What the Internet Is Doing to Our Brains_](http://www.nicholascarr.com/?page_id=16) (_book, nonfiction_).
 
 - Will Storr - [_Selfie: How the West Became Self-Obsessed_](https://www.panmacmillan.com/authors/will-storr/selfie/9781447283669) (_book, nonfiction_).
 
 
-### Social
+#### Social
 
 - Ciarán Mc Mahon (academic psychologist) - [_The Psychology of Social Media_](https://www.routledge.com/The-Psychology-of-Social-Media-1st-Edition/Mc-Mahon/p/book/9781138047754) ([Forum topic](https://community.humanetech.com/t/new-book-the-psychology-of-social-media/3759)) (_book, nonfiction_).
 
 - Sherry Turkle - [_Alone Together: Why We Expect More from Technology and Less from Each Other_](https://www.mit.edu/~sturkle/) (_book, nonfiction_).
 
 
-### Children & teens
+#### Children & teens
 
 - Jamie Doward and Sam Hall - [_Technology cuts children off from adults, warns expert_](https://www.theguardian.com/society/2019/apr/27/technology-threatens-child-development-psychology-expert-warns) (_article, nonfiction_).
 
@@ -35,7 +41,7 @@ custom_pagination:
 
 ---
 
-## Society
+### Society
 
 
 - [_Corporate Surveillance in Everyday Life_](https://crackedlabs.org/en/corporate-surveillance) - Cracked Labs report, June 2017 (_article, nonfiction_).
@@ -60,7 +66,7 @@ custom_pagination:
 - Carole Cadwalladr - [Facebook's role in Brexit - and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy) (_TED, talk_).
 
 
-### Privacy
+#### Privacy
 
 - Episodes from the [Borja Moya Show](https://www.youtube.com/channel/UC_2o3uWeoQdoBpBdiHJ3O0Q):
 
@@ -79,7 +85,7 @@ custom_pagination:
 
 
 
-## Freedom
+### Freedom
 
 - James Williams - [_Stand Out of Our Light: Freedom and Resistance in the Attention Economy_](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D) (_book, nonfiction_).
 
@@ -87,13 +93,13 @@ custom_pagination:
 
 - Mozilla Foundation - [_Internet Health Report 2019_](https://internethealthreport.org/2019/) (_report_).
 
-### Security
+#### Security
 
 - Bruce Schneier - [_Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World_](https://www.schneier.com/books/data_and_goliath/) (_book, nonfiction_).
 
 ---
 
-## Alignment
+### Alignment
 
 - David Jay - [_Why Some Movements Thrive and Others Don’t_](https://medium.com/s/story/relationship-machines-675305924d5?sk=b277bbdf2843f22d3a81d79bc20e98ca) (_article, nonfiction_).
 

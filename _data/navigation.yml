@@ -148,3 +148,14 @@ about:
         url: /about/code-of-conduct
       - title: "Privacy Policy"
         url: /about/privacy-policy
+
+# navigation of the 'Resources' section
+about:
+  - title: "Resources"
+    url: /resources/
+    children:
+      - title: "Internal"
+        url: "/resources/internal/"
+      - title: "External"
+        url: /resources/internal/
+      
