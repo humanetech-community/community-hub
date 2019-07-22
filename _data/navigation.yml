@@ -150,7 +150,7 @@ about:
         url: /about/privacy-policy
 
 # navigation of the 'Resources' section
-about:
+resources:
   - title: "Resources"
     url: /resources/
     children:
@@ -158,4 +158,3 @@ about:
         url: "/resources/internal/"
       - title: "External"
         url: /resources/internal/
-      
