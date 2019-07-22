@@ -1,5 +1,5 @@
 ---
-permalink: /episode-1/
+permalink: /resources/htc-podcast/episode-1/
 title: "Episode n. 1"
 excerpt: "First episode of the HTC Podcast"
 author_profile: false
