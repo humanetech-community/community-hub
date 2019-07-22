@@ -154,7 +154,10 @@ resources:
   - title: "Resources"
     url: /resources/
     children:
-      - title: "Internal"
-        url: "/resources#internal/"
+      - title: "HTC Podcast"
+        url: "/resources/htc-podcast/"
+        children:
+          - title: "Episode n. 1"
+            url: /episode-1/
       - title: "External"
         url: /resources#external/

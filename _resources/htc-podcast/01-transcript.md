@@ -1,3 +1,16 @@
+---
+permalink: /transcript-1/
+title: "Episode n. 1 transcript"
+excerpt: "Transcript of first episode"
+author_profile: false
+last_modified_at: 2019-07-22T12+02:00
+sidebar:
+  nav: "resources"
+custom_pagination:
+  prev: /episode-1/
+  next: /about/
+---
+
 ### Introduction
 
 HTC aims to be the reference point - gathering people and partners worldwide - for creative awareness campaigns about the harms of addictive and invasive technologies. HTC proposes to guide people to systemic and technological solutions, starting with a humane purpose and design. We evaluate technology for what it brings into our lives - how it supports our long-term needs and aspirations. Hello, everyone. My name is Pat and I am a member of HTC.
