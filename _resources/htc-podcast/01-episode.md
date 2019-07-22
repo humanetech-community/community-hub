@@ -11,20 +11,11 @@ sidebar:
 
 #### Episode n. 1
 
-The first in a series, this podcast covers free, libre, open-source software (FLOSS) and the creation of browser addons to improve user security and privacy. Among the humane-tech principles discussed are the following:
-
-- The FLOSS movement expands and strengthens human rights, among them the right to knowledge and transparency.
-- Sharing code (under freedom-respecting licenses) is a global educational endeavour
-- HTC is itself an example of working and leading in the open.
+Pat Matsueda ([HTC](https://community.humanetech.com/u/patm), [Twitter](https://twitter.com/patmatsueda)) talks to Gokulakrishna Sudharsan ([HTC](https://community.humanetech.com/u/gkrishnaks), [Twitter](https://twitter.com/gkrishnaks), [Mastodon](https://framapiaf.org/@gkrishnaks)) about FLOSS and the browser addons he created.
 
 **Transcript**
 
 You can read the transcript [here](./htc-podcast/01-transcript).
-
-**Participants**
-
-- Questioner: Pat Matsueda ([Twitter](https://twitter.com/patmatsueda))
-- Developer: Gokulakrishna Sudharsan ([Twitter](https://twitter.com/gkrishnaks), [Mastodon](https://framapiaf.org/@gkrishnaks))
 
 
 
