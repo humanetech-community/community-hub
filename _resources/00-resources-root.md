@@ -15,7 +15,7 @@ custom_pagination:
 
 ### HTC Podcast
 
-- [Episode n. 1](./htc-podcast/01-episode)
+- [Episode n. 1](./htc-podcast/episode-1)
 
 
 ## External
