@@ -153,5 +153,8 @@ about:
 resources:
   - title: "Podcast"
     url: "/resources/podcast"
+    children:
+      - title: "Episode n.1"
+        url: "/resources/podcast-episode-1/"
   - title: "Background"
     url: /resources/background/
