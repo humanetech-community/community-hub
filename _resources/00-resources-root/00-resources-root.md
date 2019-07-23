@@ -17,7 +17,7 @@ A podcast series produced by HTC, from the community to the community.
 
 | Date | Episode |
 | :--- | :--- |
-| July 23, 2019 | [1 - A talk with Gokul](/resources/podcast/#Episode-n.1) |
+| July 23, 2019 | [1 - A talk with Gokul](/resources/podcast/#episode-n.1) |
 
 
 ## Background
