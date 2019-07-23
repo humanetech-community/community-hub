@@ -24,8 +24,8 @@ The first in a series, this podcast covers free, libre, open-source software (FL
 
 **Participants**
 
-- Questioner: Pat Matsueda ([HTC](https://community.humanetech.com/u/patm), [Twitter](https://twitter.com/patmatsueda))
-- Developer: Gokulakrishna Sudharsan ([HTC](https://community.humanetech.com/u/gkrishnaks), [Twitter](https://twitter.com/gkrishnaks), [Mastodon](https://framapiaf.org/@gkrishnaks))
+- Host: Pat Matsueda ([HTC](https://community.humanetech.com/u/patm), [Twitter](https://twitter.com/patmatsueda))
+- Guest: Gokulakrishna Sudharsan ([HTC](https://community.humanetech.com/u/gkrishnaks), [Twitter](https://twitter.com/gkrishnaks), [Mastodon](https://framapiaf.org/@gkrishnaks))
 
 **Go to this episode**
 
