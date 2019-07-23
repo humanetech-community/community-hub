@@ -1,6 +1,6 @@
 ---
 permalink: /resources/podcast-episode-1/
-title: "Episode n. 1"
+title: "Episode n.1"
 excerpt: "First episode of the HTC Podcast"
 author_profile: false
 last_modified_at: 2019-07-22T12+02:00

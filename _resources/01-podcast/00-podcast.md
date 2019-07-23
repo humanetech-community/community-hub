@@ -15,7 +15,7 @@ custom_pagination:
 
 Welcome to the podcast series of the Humane Technology Community.
 
-### Episode n. 1
+### Episode n.1
 
 The first in a series, this podcast covers free, libre, open-source software (FLOSS) and the creation of browser addons to improve user security and privacy. Among the humane-tech principles discussed are the following:
 
@@ -30,4 +30,4 @@ The first in a series, this podcast covers free, libre, open-source software (FL
 
 **Go to this episode**
 
-- [Podcast episode n. 1](/resources/podcast-episode-1/)
+- [Podcast episode n.1](/resources/podcast-episode-1/)

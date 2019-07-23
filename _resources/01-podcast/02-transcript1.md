@@ -1,6 +1,6 @@
 ---
 permalink: /resources/podcast-episode-1-transcript/
-title: "Episode n. 1 transcript"
+title: "Episode n.1 transcript"
 excerpt: "Transcript of first episode"
 author_profile: false
 last_modified_at: 2019-07-22T12+02:00
