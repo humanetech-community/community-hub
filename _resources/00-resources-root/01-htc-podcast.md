@@ -30,4 +30,4 @@ The first in a series, this podcast covers free, libre, open-source software (FL
 
 **Go to this episode**
 
-- [Podcast episode n. 1](./htc-podcast/episode-1)
+- [Podcast episode n. 1](/resources/podcast-episode-1/)

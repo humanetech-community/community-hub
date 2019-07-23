@@ -1,5 +1,5 @@
 ---
-permalink: /transcript-1/
+permalink: /resources/podcast-episode-1-transcript/
 title: "Episode n. 1 transcript"
 excerpt: "Transcript of first episode"
 author_profile: false

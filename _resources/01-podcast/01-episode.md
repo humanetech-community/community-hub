@@ -1,5 +1,5 @@
 ---
-permalink: /resources/htc-podcast/episode-1/
+permalink: /resources/podcast-episode-1/
 title: "Episode n. 1"
 excerpt: "First episode of the HTC Podcast"
 author_profile: false
@@ -15,7 +15,7 @@ Pat Matsueda ([HTC](https://community.humanetech.com/u/patm), [Twitter](https://
 
 **Transcript**
 
-You can read the transcript [here](./htc-podcast/01-transcript).
+You can read the transcript [here](/resources/podcast-episode-1-transcript/).
 
 
 
