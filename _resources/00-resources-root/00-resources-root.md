@@ -15,11 +15,13 @@ custom_pagination:
 
 A podcast series produced by HTC, from the community to the community.
 
-Go [here](/resources/podcast/).
+| Date | Episode |
+| :--- | :--- |
+| July 23, 2019 | [1 - A talk with Gokul](/resources/podcast/#Episode-n.1) |
 
 
 ## Background
 
 Some interesting articles, books, movies, .. to be considered as a minimum cultural background shared among all members of HTC.
 
-Go [here](/resources/background/).
+Scroll [here](/resources/background/).
