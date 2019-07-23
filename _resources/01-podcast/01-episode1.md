@@ -18,7 +18,7 @@ Pat Matsueda ([HTC](https://community.humanetech.com/u/patm), [Twitter](https://
 
 **Transcript**
 
-You can read the transcript [here](/resources/podcast-episode-1-transcript/).
+You can read the transcript [here](/resources/podcast-episode-1-transcript/) (open in a new tab to read along while listening).
 
 
 
