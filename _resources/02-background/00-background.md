@@ -1,5 +1,5 @@
 ---
-permalink: /background/
+permalink: /resources/background/
 title: "Background"
 excerpt: "Background resources of the Humane Tech Community"
 author_profile: false

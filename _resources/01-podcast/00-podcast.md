@@ -1,5 +1,5 @@
 ---
-permalink: /resources/htc-podcast/
+permalink: /resources/podcast/
 title: "HTC Podcast"
 excerpt: "The podcast of the Humane Tech Community"
 author_profile: false

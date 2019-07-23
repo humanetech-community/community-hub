@@ -15,7 +15,7 @@ custom_pagination:
 
 A podcast series produced by HTC, from the community for the community.
 
-Go [here](/resources/htc-podcast/).
+Go [here](/resources/podcast/).
 
 
 ## Background resources

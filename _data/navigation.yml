@@ -152,6 +152,6 @@ about:
 # navigation of the 'Resources' section
 resources:
   - title: "Podcast"
-    url: "/resources/htc-podcast"
+    url: "/resources/podcast"
   - title: "Background"
     url: /resources/background/
