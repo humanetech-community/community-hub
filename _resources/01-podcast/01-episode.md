@@ -9,7 +9,6 @@ sidebar:
 
 ---
 
-#### Episode n. 1
 
 Pat Matsueda ([HTC](https://community.humanetech.com/u/patm), [Twitter](https://twitter.com/patmatsueda)) talks to Gokulakrishna Sudharsan ([HTC](https://community.humanetech.com/u/gkrishnaks), [Twitter](https://twitter.com/gkrishnaks), [Mastodon](https://framapiaf.org/@gkrishnaks)) about FLOSS and the browser addons he created.
 
