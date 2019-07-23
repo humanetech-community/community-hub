@@ -15,7 +15,8 @@ custom_pagination:
 
 A podcast series produced by HTC, from the community to the community.
 
-![podcast icon|300x300](/assets/images/podcast/podcast_icon.png)
+<img src="/assets/images/podcast/podcast_icon.png" width="30%">
+
 
 | Date | Episode |
 | :--- | :--- |
