@@ -13,7 +13,7 @@ custom_pagination:
 
 ## HTC Podcast
 
-A podcast series produced by HTC, from the community for the community.
+A podcast series produced by HTC, from the community to the community.
 
 Go [here](/resources/podcast/).
 
