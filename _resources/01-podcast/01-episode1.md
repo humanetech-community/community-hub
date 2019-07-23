@@ -10,7 +10,6 @@ sidebar:
 ---
 
 <br/>
-<br/>
 
 <iframe src="https://archive.org/embed/htcpodcast1" width="500" height="100" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
