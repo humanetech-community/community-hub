@@ -11,11 +11,10 @@ custom_pagination:
 
 ---
 
-## HTC podcast
 
 Welcome to the podcast series of the Humane Technology Community.
 
-### Episode n.1
+## Episode n.1
 
 The first in a series, this podcast covers free, libre, open-source software (FLOSS) and the creation of browser addons to improve user security and privacy. Among the humane-tech principles discussed are the following:
 
