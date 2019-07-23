@@ -18,7 +18,7 @@ A podcast series produced by HTC, from the community for the community.
 Go [here](/resources/podcast/).
 
 
-## Background resources
+## Background
 
 Some interesting articles, books, movies, .. to be considered as a minimum cultural background shared among all members of HTC.
 
