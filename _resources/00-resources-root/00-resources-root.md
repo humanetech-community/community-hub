@@ -15,6 +15,8 @@ custom_pagination:
 
 A podcast series produced by HTC, from the community to the community.
 
+![podcast icon](/assets/images/podcast/podcast_icon.png)
+
 | Date | Episode |
 | :--- | :--- |
 | July 23, 2019 | [1 - A talk with Gokul](/resources/podcast/#episode-n.1) |
