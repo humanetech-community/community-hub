@@ -13,7 +13,6 @@ discourse_topic_id: 4132
 
 ---
 
-## New HTC podcast series
 
 In March of this year, I started corresponding with new HTC member Gokulakrishna Sudharsan. We discovered we had similar interests and became friends. One result of this was a decision to work on a podcast that would share Gokul’s interest in Free as in Libre/open source software with HTC’s membership and the world beyond.
 
