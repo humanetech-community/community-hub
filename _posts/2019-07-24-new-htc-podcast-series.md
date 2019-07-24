@@ -5,7 +5,6 @@ header:
   image: /assets/images/blog/htc-podcast-series/podcast-icon.jpg
   teaser: /assets/images/blog/htc-podcast-series/podcast-icon-ogimage.jpg
   og_image: /assets/images/blog/htc-podcast-series/podcast-icon-ogimage.jpg
-  caption: Image credits: Michele Minno
 author: Pat Matsueda
 last_modified_at: 2019-07-24T07+02:00
 comments: true
@@ -13,6 +12,8 @@ discourse_topic_id: 4132
 
 
 ---
+
+## New HTC podcast series
 
 In March of this year, I started corresponding with new HTC member Gokulakrishna Sudharsan. We discovered we had similar interests and became friends. One result of this was a decision to work on a podcast that would share Gokul’s interest in Free as in Libre/open source software with HTC’s membership and the world beyond.
 
