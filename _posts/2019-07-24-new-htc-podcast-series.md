@@ -3,8 +3,8 @@ title:  "New HTC podcast series"
 excerpt: "In March of this year, I started corresponding with new HTC member Gokulakrishna Sudharsan. We discovered we had similar interests and became friends."
 header:
   image: /assets/images/blog/htc-podcast-series/podcast-icon.jpg
-  teaser: /assets/images/blog/htc-podcast-series/podcast-icon-ogimage.jpg
-  og_image: /assets/images/blog/htc-podcast-series/podcast-icon-ogimage.jpg
+  teaser: /assets/images/blog/htc-podcast-series/podcast-icon-ogimage.png
+  og_image: /assets/images/blog/htc-podcast-series/podcast-icon-ogimage.png
   caption: Image credits to Michele Minno
 author: Pat Matsueda
 last_modified_at: 2019-07-24T07+02:00
