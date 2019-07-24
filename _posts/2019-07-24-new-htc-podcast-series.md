@@ -5,7 +5,7 @@ header:
   image: /assets/images/blog/htc-podcast-series/podcast-icon.jpg
   teaser: /assets/images/blog/htc-podcast-series/podcast-icon-ogimage.jpg
   og_image: /assets/images/blog/htc-podcast-series/podcast-icon-ogimage.jpg
-  caption: image credits to Michele Minno
+  caption: Image credits to Michele Minno
 author: Pat Matsueda
 last_modified_at: 2019-07-24T07+02:00
 comments: true

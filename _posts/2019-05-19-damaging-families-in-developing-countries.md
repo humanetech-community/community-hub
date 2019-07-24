@@ -5,6 +5,7 @@ header:
   image: /assets/images/blog/damaging-families/credits-to-Durga-Prasad-Khanal.jpeg
   teaser: /assets/images/blog/damaging-families/credits-to-Durga-Prasad-Khanal-ogimage.jpeg
   og_image: /assets/images/blog/damaging-families/credits-to-Durga-Prasad-Khanal-ogimage.jpeg
+  caption: Image credits to Durga Prasad Khanal
 author: Biswa Aryal
 last_modified_at: 2019-05-19T07+02:00
 comments: true
