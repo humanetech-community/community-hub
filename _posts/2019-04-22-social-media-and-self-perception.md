@@ -1,7 +1,6 @@
 ---
 title:  "Social Media and Self Perception : A Personal Reflection"
 excerpt: "I accepted that I was human, imperfect, and that it was okay to not look like my ‘best’ self all the time."
-author: Siddhi Upadhyaya
 last_modified_at: 2019-04-22T12+02:00
 
 # See: https://github.com/humanetech-community/community-hub/issues/48
